@@ -17,14 +17,12 @@ Detail research results around where some of the pain points in naming are, anal
 These guidelinse focus on wording over capitalization.  Capitalization is important; but that is an alread-defined style.
 
 ## Detailed Guidance
-[list]( # "likiuj")
 
 ### Principles
 Compartmentalize things that can be reasoned about; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
 
 ### Assemblies; Class Libaries and Programs
 Assemblies are the deployable binary groupings of compiled code.  As such, the context of these binaries is generally the file system or URIs.  Assemblies often travel in packages and thus have unique constraints that affect naming.  Assembly names can be scoped by directory, but that depends on deployment and choices outside of your control (names of 3<sup>rd</sup> party assemblies and  packages).
-
 
 ### Namespaces
 Namespaces suite a couple of needs, both relating to the grouping of types.  Grouping is realted to functionality, one is by related functionality, the other is by specific functionality.
