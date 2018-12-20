@@ -65,7 +65,7 @@ Interfaces represent an ability that something can implement.  Adjectives descri
 ### General
 **Avoid Vaugness**
 
-**Avoid *[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")*** AKA **Avoid *Homographs*** or **Avoid *[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")*** Zero derivation words are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). *Homograph* is another name for words spelled the same, but different meaning. *Metonym* means a word substituted for another with a different meaning. 
+**Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; Zero derivation words are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). *Homograph* is another name for words spelled the same, but different meaning. *Metonym* means a word substituted for another with a different meaning. 
 
 ## References
 [.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
