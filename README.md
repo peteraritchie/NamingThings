@@ -20,13 +20,16 @@ These guidelines focus on wording over capitalization.  Capitalization is import
 [Detailed Guidance]: #detailed-guidance
 
 ### Principles
-Compartmentalize things that can be reasoned about; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
+[Compartmentalization]: #compartmentalization
+**Compartmentalization** Compartmentalize things that can be reasoned about; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
 
+[Assemblies]: #assemblies
 ### Assemblies; Class Libraries and Programs
 Assemblies are the deployable binary groupings of compiled code.  As such, the context of these binaries is generally the file system or URIs.  Assemblies often travel in packages and thus have unique constraints that affect naming.  Assembly names can be scoped by directory, but that depends on deployment and choices outside of your control (names of 3<sup>rd</sup> party assemblies and packages).
 
+[Namespaces]: #namespace
 ### Namespaces
-Namespaces suite a couple of needs, both relating to the grouping of types.  Grouping is related to functionality, one is by related functionality, the other is by specific functionality.
+Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping is related to functionality, one is by related functionality, the other is by specific functionality.
 
 Specific functionality is the easiest.  This effectively means grouping types that implement a particular interface or a particular hierarchy of interfaces.  In this case, the name of the enclosing interface can by the name of the interface, pluralized.  e.g. `Collections`.
 
@@ -39,10 +42,12 @@ Group types in namespaces by a single common attribute: group by a particular in
 
 **See also** [General](#general)
 
+[Classes]: #classes
 ### Classes
-Common nouns
+[Prefer Common Nouns]: #prefer-common-nouns
+**Prefer Common nouns** A common noun is a noun that isn't a proper noun: they are names for general things rather than names that identify specific things.
 
-**Being Sucessful** Avoid proper, plural, mass, and collective nouns; as well as [words that act as nouns and other parts of speech]( # unmarked plural form)
+**Being Sucessful** Avoid proper, plural, mass, and collective nouns; as well as [words that act as nouns and other parts of speech]( # "unmarked plural form.")
 
 **See also** [General](#general)
 
@@ -50,7 +55,10 @@ Common nouns
 **See also** [General](#general)
 
 ### Interfaces
-Interfaces represent an ability that something can implement.  Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but the suffixes -able, -ible, and -ive are key here: they form adjectives from verbs (actions, abilities).  -able/-ible are used with verbs for interfaces representing an inherent ability of an implementation (*Enumerable* in `IEnumerable` to represents something that you can [enumerate]( # first-preson present tense)). -ive is used with verbs for interfaces that perform a type of functionality (*Transmissive* in `ITransmissive` for something that [sends]( # third-person past tense)).  
+**Prefer Adjectives Formed From Verbs** Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but as an interface is a representation of an ability it's name should represent an action. The suffixes -able, -ible, and -ive are important: these suffixes form adjectives from verbs (actions, abilities).  -able/-ible are used with verbs for interfaces representing an inherent ability of an implementation &#40;*Enumerable* in `IEnumerable`, to represents something that you can [enumerate]( # "first-preson present tense.")&#41; (or something that has the ability to be enumerated). -ive is used with verbs for interfaces that perform a type of functionality (*Transmissive* in `ITransmissive` for something that [transmits]( # "third-person past tense")).  
+
+-able/-ible something that can have an action performed on it.  
+-ive something that performs an action.
 
 **See also** [General](#general)
 
@@ -63,7 +71,7 @@ Interfaces represent an ability that something can implement.  Adjectives descri
 **See also** [General](#general)
 
 ### General
-**Avoid Vaugness**
+**Avoid Ambiguity** Avoid using words that are prone to misinterpretation or are used to mean many things.
 
 **Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; Zero derivation words are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
 
