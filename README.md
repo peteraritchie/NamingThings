@@ -9,53 +9,63 @@ Detail research results around where some of the pain points in naming are, anal
 
 ## Guiding Principles
 - There are always exceptions, we can only mitigate their effect
-- **Purposefulness** This
+- **Purposefulness** This means doing this on purpose, or by design.
 - **Consistency** Enough said
-- **[Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)** Building on consistency, where a consistency of intuitiveness is important.
+- **[Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)** Building on consistency, where consistency of intuitiveness is important.
 
 ## Scope
-These guidelines focus on wording over capitalization.  Capitalization is important, but that is an already-defined style.
+These guidelines focus on wording over capitalization.  Capitalization is important, but that is an externally-defined style.
 
 ## Detailed Guidance
 [Detailed Guidance]: #detailed-guidance
 
 ### Principles
 [Compartmentalization]: #compartmentalization
-**Compartmentalization** Compartmentalize things that can be reasoned about; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
+**Compartmentalization** Compartmentalize things that can be reasoned about independently of other things; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
+
+[Namespaces]: #namespace
+### Namespaces
+Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on functionality.  
+
+**Use a pluralized noun for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  `Collections` contains types that implement interfaces that allow types to act as collections.
+
+**Use a mass deverbal noun for namespaces that group types related by functionality (but different)**.  The other grouping can cause some consternation because the grouping can easily feel subjective.  You can also group types by functional usage.  This type of grouping can be thought of as capability grouping.  In which case the namespace name can be a noun of action or a noun based on a verb.  The suffixes "-ion" and "-ing" come into play here.  e.g. `Processing` or `Administration`.
+
+**Use countable nouns or pluralized adjectives for namespaces that classify other namespaces** <code>System.<i>Diagnostics</i>.Tracing</code>
+
+**Use adjectives or mass nouns to sub-group types related by interfaces** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
+
+**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective).  Prefer nouns that describe an act or responsibility. Although ending in "-ion", avoid words ending in "-tion" or "-sion.  A "mass noun" is also called a noncountable noun.  Avoid words that function as mass deverbal nouns but often also function as adjectives (need example).
+
+#### Summary
+Namespace names should signify how the types in the namespaces are grouped.
+
+**See also** [General](#general)
 
 [Assemblies]: #assemblies
 ### Assemblies; Class Libraries and Programs
 Assemblies are the deployable binary groupings of compiled code.  As such, the context of these binaries is generally the file system or URIs.  Assemblies often travel in packages and thus have unique constraints that affect naming.  Assembly names can be scoped by directory, but that depends on deployment and choices outside of your control (names of 3<sup>rd</sup> party assemblies and packages).
-
-[Namespaces]: #namespace
-### Namespaces
-Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping is related to functionality, one is by related functionality, the other is by specific functionality.
-
-Specific functionality is the easiest.  This effectively means grouping types that implement a particular interface or a particular hierarchy of interfaces.  In this case, the name of the enclosing interface can by the name of the interface, pluralized.  e.g. `Collections`.
-
-The other case can cause some consternation because naming can easily feel subjective.  Randomly grouping types within a namespace is very subjective--you're subjectively groups types.  Perform grouping on purpose, only group types with similar attributes or similar behavior.  You can also group types by functional usage.  This type of grouping can be thought of as capability grouping.  In which case the namespace name can be a noun of action or a noun based on a verb.  The suffixes "-ion" and "-ing" come into play here.  e.g. `Processing` or `Administration`.
-
-**Being successful**: despite being nouns, avoid using words that can act nouns of action (e.g. gerunds) to name other categories unless you absolutely have to.  The more different parts of speech and different subcategories of parts of speech are only used in one place, the less likely naming collisions will occur.
-
-#### Summary
-Group types in namespaces by a single common attribute: group by a particular interface/ability, or group by a common capability they contribute to.
-
-**See also** [General](#general)
 
 [Classes]: #classes
 ### Classes
 [Prefer Common Nouns]: #prefer-common-nouns
 **Prefer Common nouns** A common noun is a noun that isn't a proper noun: they are names for general things rather than names that identify specific things.
 
-**Being Sucessful** Avoid proper, plural, mass, and collective nouns; as well as [words that act as nouns and other parts of speech]( # "unmarked plural form.")
+**Being Successful** Avoid plural, mass, and collective nouns; as well as [words that act as nouns and other parts of speech]( # "unmarked plural form.")
 
 **See also** [General](#general)
 
+### Value Types
+Avoid deverbal nouns for value types (nouns derived from verbs, e.g. -or, -ant, -ar -ian, 
+**See also** [General](#general)
+[Structs]: #structs
 ### Structs
+Structs often function as value types, avoid deverbal nouns for structs (nouns derived from verbs, e.g. -or, -ant, -ian, -er, etc.)
+
 **See also** [General](#general)
 
 ### Interfaces
-**Prefer Adjectives Formed From Verbs** Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but as an interface is a representation of an ability it's name should represent an action. The suffixes -able, -ible, and -ive are important: these suffixes form adjectives from verbs (actions, abilities).  -able/-ible are used with verbs for interfaces representing an inherent ability of an implementation &#40;*Enumerable* in `IEnumerable`, to represents something that you can [enumerate]( # "first-preson present tense.")&#41; (or something that has the ability to be enumerated). -ive is used with verbs for interfaces that perform a type of functionality (*Transmissive* in `ITransmissive` for something that [transmits]( # "third-person past tense")).  
+**Prefer Adjectives Formed From Verbs** Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but as an interface is a representation of an ability it's name should represent an action. The suffixes -able, -ible, and -ive are important: these suffixes form adjectives from verbs (actions, abilities).  -able/-ible are used with verbs for interfaces representing an inherent ability of an implementation &#40;*Enumerable* in `IEnumerable`, to represents something that you can [enumerate]( # "first-perrson present tense.")&#41; (or something that has the ability to be enumerated). -ive is used with verbs for interfaces that perform a type of functionality (*Transmissive* in `ITransmissive` for something that [transmits]( # "third-person past tense")).  
 
 -able/-ible something that can have an action performed on it.  
 -ive something that performs an action.
