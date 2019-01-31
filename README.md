@@ -18,6 +18,19 @@ These guidelines focus on wording over capitalization.  Capitalization is import
 
 ## Detailed Guidance
 [Detailed Guidance]: #detailed-guidance
+### Definitions
+[Definitions]: #definitions
+<dl>
+  <dt>countable noun</dt><dd>...coming soon...</dd>
+  <dt>mass noun</dt><dd>...coming soon...</dd>
+  <dt>uncountable noun</dt><dd>...coming soon...</dd>
+  <dt>collective noun</dt><dd>...coming soon...</dd>
+  <dt>deverbal noun</dt><dd>...coming soon...</dd>
+  <dt>noun of action</dt><dd>...coming soon...</dd>
+  <dt>Zero Derivation Words</dt><dd>...cmming soon...</dd>
+  <dt>metonym</dt><dd>...coming soon...</dd>
+  <dt>homograph</dt><dd>...coming soon...</dd>
+</dl>
 
 ### Principles
 [Compartmentalization]: #compartmentalization
@@ -27,15 +40,15 @@ These guidelines focus on wording over capitalization.  Capitalization is import
 ### Namespaces
 Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on functionality.  
 
-**Use a pluralized noun for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  `Collections` contains types that implement interfaces that allow types to act as collections.
+**Use a pluralized noun for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  A `Collections` suffix signifies the namespace contains types that implement interfaces that allow types to act as collections.
 
 **Use a mass deverbal noun for namespaces that group types related by functionality (but different)**.  The other grouping can cause some consternation because the grouping can easily feel subjective.  You can also group types by functional usage.  This type of grouping can be thought of as capability grouping.  In which case the namespace name can be a noun of action or a noun based on a verb.  The suffixes "-ion" and "-ing" come into play here.  e.g. `Processing` or `Administration`.
 
 **Use countable nouns or pluralized adjectives for namespaces that classify other namespaces** <code>System.<i>Diagnostics</i>.Tracing</code>
 
-**Use adjectives or mass nouns to sub-group types related by interfaces** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
+**Use adjectives or mass nouns to sub-group types related by interface** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
 
-**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective).  Prefer nouns that describe an act or responsibility. Although ending in "-ion", avoid words ending in "-tion" or "-sion.  A "mass noun" is also called a noncountable noun.  Avoid words that function as mass deverbal nouns but often also function as adjectives (need example).
+**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective).  Prefer nouns that describe an act or responsibility. Avoid ending in "-ion", avoid words ending in "-tion" or "-sion.  A "mass noun" is also called a noncountable noun.  Avoid words that function as mass deverbal nouns but often also function as adjectives (need example).
 
 #### Summary
 Namespace names should signify how the types in the namespaces are grouped.
