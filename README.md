@@ -1,3 +1,5 @@
+**10-17-19 UPDATE: Techcon '19 version of the slides are [now available](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things.pptx)**
+
 # Naming Things
 Content ([TL;DR][Detailed Guidance]) on tips, tricks, advice, practices for naming things in software/technology
 
