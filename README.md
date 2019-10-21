@@ -23,13 +23,70 @@ These guidelines focus on wording over capitalization.  Capitalization is import
 ### Definitions
 [Definitions]: #definitions
 <dl>
-  <dt>countable noun</dt><dd>...coming soon...</dd>
-  <dt>mass noun</dt><dd>...coming soon...</dd>
-  <dt>uncountable noun</dt><dd>...coming soon...</dd>
-  <dt>collective noun</dt><dd>...coming soon...</dd>
-  <dt>deverbal noun</dt><dd>...coming soon...</dd>
-  <dt>noun of action</dt><dd>...coming soon...</dd>
-  <dt>Zero Derivation Words</dt><dd>...cmming soon...</dd>
+  <dt>countable noun</dt><dd>
+
+/ˈkoun(t)əb(ə)l/  
+_adjective_  
+&nbsp;&nbsp;&nbsp;&nbsp;a noun that can form a plural or be used with the indefinite article.
+
+Antonyms: _uncountable noun_
+  </dd>
+  <dt>mass noun</dt><dd>
+
+/ˈmas ˌnoun/  
+_noun_  
+&nbsp;&nbsp;&nbsp;&nbsp;a noun that is usually uncountable but can be made plural or used with a or an when you are talking about different types of something.  
+&nbsp;&nbsp;&nbsp;&nbsp;For example, bread is used as a mass noun in _the shop sells several different breads_.  
+  </dd>
+  <dt>uncountable noun</dt><dd>
+
+/ˌənˈkoun(t)əb(ə)l noun/  
+_adjective_  
+&nbsp;&nbsp;&nbsp;&nbsp;a noun that cannot form a plural or be used with the indefinite article.
+</dd>
+  <dt>collective noun</dt><dd>
+
+/kəˈlektiv noun/  
+_noun_  
+&nbsp;&nbsp;&nbsp;&nbsp;a singular noun, such as _committee_ or _team_, that refers to a group of people, animals or things. [In American English it must be used with a singular verb]
+</dd>
+  <dt>deverbal</dt><dd><span>  
+/ˌdēˈvərb(ə)l/
+
+_adjective_  
+&nbsp;&nbsp;&nbsp;&nbsp;(of a noun or adjective) derived from a verb but behaves strictly as a noun or adjective and not a verb.
+
+_noun_  
+&nbsp;&nbsp;&nbsp;a deverbal noun or adjective.</span>
+
+See also: _verbal noun_
+</dd>
+  <dt>action noun</dt><dd>
+
+/ˈakSH(ə)n noun/  
+_noun_  
+&nbsp;&nbsp;&nbsp;&nbsp;A noun expressing action.
+
+synonyms:  
+&nbsp;&nbsp;&nbsp;&nbsp;_noun of action_
+</dd>
+  <dt>verbal noun</dt><dd>
+
+/ˈvərbəl noun/  
+_noun_  
+&nbsp;&nbsp;&nbsp;&nbsp;A noun formed as an inflection of a verb and partly sharing its constructions[/forms. i.e. sometimes behave as a verb].
+
+> "Verbal nouns contrast with deverbal nouns, that is, other kinds of nouns derived from verbs, such as attempt, destruction, and including nouns ending in -ing that do not have verbal force: building in _The building was empty_. They also contrast with the gerund, which also ends in -ing, but is syntactically a verb."  
+
+See also: _deverbal_
+</dd>  <dt>zero-derivation words</dt><dd>
+
+_noun_  
+&nbsp;&nbsp;&nbsp;&nbsp;A process of word-formation in which there is no change to the form that undergoes it.  
+&nbsp;&nbsp;&nbsp;&nbsp;e.g. that by which the verb fish, seen as one lexical unit, is derived from the noun fish, seen as another lexical unit.
+
+synonyms: _zero-affixation words_.
+</dd>
   <dt>metonym</dt><dd>...coming soon...</dd>
   <dt>homograph</dt><dd>...coming soon...</dd>
 </dl>
