@@ -173,12 +173,36 @@ The suffixes -able, -ible, and -ive are important: these suffixes form adjective
 **See also** [General](#general)
 
 ### General
-**Avoid Ambiguity** Avoid using words that are prone to misinterpretation or are used to mean many things.
+<a name="avoid-ambiguity">**Avoid Ambiguity**</a>  
+Avoid using words that are prone to misinterpretation or are used to mean many things.
 
 **Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms](#metonym) ("e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; [Zero derivation words](#zero-derivation-words) are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
 
 *Homograph* is another name for words spelled the same, but different meaning.  
 *Metonym* means a word substituted for another with a different meaning.
+
+### Idiosyncratic Guidelines
+There get more into what you might call "non-generic" identifier guidelines, guidelines that complement the from-of-speech rules.
+
+#### Messages - Events
+An event is the embodiment of a significant change in state. (Event-driven architecture n.d.)  That fact (the occurrence) is recognized by software and represented by an instance of an event identifier.  It is a fact about something that happened in the past, it cannot be changed nor retracted. (Bonér 2017)  A _domain_ event signals something that has happened in the outside world that is of interest to the application. It's transmitted to the application in some data structure (event identifier), carrying with it the data that describes the event. (Fowler 2006)
+
+**Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have a tense in the past (past tense).  Not all past-tense verbs take this form, but typically past-tense verbs are a _simple present tense_ verb suffixed with "-ed".
+
+To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past tense verbs used**.  Also **prefer to choose a single past tense verb for a particular circumstance**.  Without getting lost in philosophy, here's a list of past-tense verbs for use with common event/state-change scenarios in software:
+
+#### Generic Outcome-based Event Name Suffixes
+This is a fairly complete list of generic types of events; when used they should be consistent the meanings described here:
+- **Created** signifies something new as come into existence (rather than Added).
+- **Added** signifies something as been added to a container or collection.
+- **Updated** signifies the value properties or attributes of an existing thing (entity) have been changed.
+- **Changed** signifies an entire thing (entity) has been replaced with another.
+- **Deleted** means something is no longer accessible in some context.
+- **Destroyed** means removed from existence, no possible way to ever get it back.
+- **Removed** means the opposite of Added, a thing has been moved out of, or removed from a container/collection
+- **Modified** means structure or schema has changed and isn't related to instantiated entities.
+
+#### Messages - Commands
 
 ## References
 [.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
