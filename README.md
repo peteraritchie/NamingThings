@@ -87,8 +87,23 @@ _noun_
 
 synonyms: _zero-affixation words_.
 </dd>
-  <dt><a name="metonym">metonym</a></dt><dd>...coming soon...</dd>
-  <dt><a name="homograph">homograph</a></dt><dd>...coming soon...</dd>
+  <dt><a name="metonym">metonym</a></dt><dd>
+
+/ˈmedəˌnim/
+_noun_
+&nbsp;&nbsp;&nbsp;&nbsp;a word, name, or expression used as a substitute for something else with which it is closely associated.  
+&nbsp;&nbsp;&nbsp;&nbsp;For example, _Washington_ is a metonym for _the federal government of the US_.
+
+</dd>
+  <dt><a name="homograph">homograph</a></dt><dd>
+
+/ˈhäməˌnim,ˈhōməˌnim/
+_noun_
+&nbsp;&nbsp;&nbsp;&nbsp;each of two or more words spelled the same (homonym) but not necessarily  
+&nbsp;&nbsp;&nbsp;&nbsp;pronounced the same and having different meanings and origins.  
+&nbsp;&nbsp;&nbsp;&nbsp;Homonym is a type of homograph.
+
+</dd>
 </dl>
 
 ### Principles
@@ -158,7 +173,7 @@ Structs often function as [value types](#value-types), avoid [deverbal](#deverba
 ### General
 **Avoid Ambiguity** Avoid using words that are prone to misinterpretation or are used to mean many things.
 
-**Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; [Zero derivation words](#zero-derivation-words) are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
+**Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms](#metonym) ("e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; [Zero derivation words](#zero-derivation-words) are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
 
 *Homograph* is another name for words spelled the same, but different meaning.  
 *Metonym* means a word substituted for another with a different meaning.
