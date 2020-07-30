@@ -127,14 +127,15 @@ Assemblies are the deployable binary groupings of compiled code.  As such, the c
 
 **See also** [General](#general)
 
+[Value Type]: #value-types
 ### Value Types
-Avoid [deverbal](#deverbal) nouns for value types (nouns derived from verbs, e.g. -or, -ant, -ar -ian, 
+Avoid [deverbal](#deverbal) nouns for value types (nouns derived from verbs, e.g. words suffixed with -or, -ant, -ar -ian, -er, etc.)
 
 **See also** [General](#general)
 
 [Structs]: #structs
 ### Structs
-Structs often function as value types, avoid [deverbal](#deverbal) nouns for structs (nouns derived from verbs, e.g. -or, -ant, -ian, -er, etc.)
+Structs often function as [value types](#value-types), avoid [deverbal](#deverbal) nouns for structs (nouns derived from verbs, e.g. words suffixed with -or, -ant, -ian, -er, etc.)
 
 **See also** [General](#general)
 
