@@ -187,12 +187,12 @@ There get more into what you might call "non-generic" identifier guidelines, gui
 #### Messages - Events
 An event is the embodiment of a significant change in state. (Event-driven architecture n.d.)  That fact (the occurrence) is recognized by software and represented by an instance of an event identifier.  It is a fact about something that happened in the past, it cannot be changed nor retracted. (Bonér 2017)  A _domain_ event signals something that has happened in the outside world that is of interest to the application. It's transmitted to the application in some data structure (event identifier), carrying with it the data that describes the event. (Fowler 2006)
 
-**Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have a tense in the past (past tense).  Not all past-tense verbs take this form, but typically past-tense verbs are a _simple present tense_ verb suffixed with "-ed".
+**Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have a tense in the past (past participle).  Not all past participles take this form, but typically past participles are a _simple present tense_ verb suffixed with "-ed".
 
 **Prefer the subject name be the name of the _domain resource_ whose state changed**.  Resources should be domain-specific and should not relate to implementation detail
 _avoid "record", "field"_, etc.
 
-To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past tense verbs used**.  Also **prefer to choose a single past tense verb for a particular circumstance**.  Without getting lost in philosophy, here's a list of past-tense verbs for use with common event/state-change scenarios in software:
+To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past participles used**.  Also **prefer to choose a single past participles for a particular circumstance**.  Without getting lost in philosophy, here's a list of past participles for use with common event/state-change scenarios in software:
 
 #### Generic Outcome-based Event Name Suffixes
 This is a fairly complete list of generic types of events; when used they should be consistent the meanings described here:
@@ -206,6 +206,15 @@ This is a fairly complete list of generic types of events; when used they should
 - **Modified** means structure or schema has changed and isn't related to instantiated entities.
 
 There will, of course, be domain-specific past tense verbs.  For example _Qualified, Eligible_. Be faithful to the domain, if Qualified is an important event, model it in addition to the resource being updated: ClientQualified, ClientUpdated.
+
+#### Examples of Domain-specific Past Participles for Event Naming
+-	**Locked** As in Interest Rate _Locked.
+-	**Moved** As Client _Moved_ to a different Address.
+-	**Sent** As in Underwriting Request _Sent_.
+-	**Corrected** As in Client Name _Corrected_.
+-	**Began** As in Loan Processing _Began_.
+-	**Completed** As in Underwriting _Completed_.
+-	**Rejected** As in Application _Rejected_.
 
 #### Messages - Commands
 
