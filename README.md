@@ -4,19 +4,19 @@
 Content ([TL;DR][Detailed Guidance]) on tips, tricks, advice, practices for naming things in software/technology
 
 ## Drivers
-Naming guidance like .NET Framework Guidelines are helpful, but they only help in minor situations and don't really a lot help solve the naming things problem in software.
+Naming guidance like .NET Framework Guidelines are helpful, but they only help in minor situations and don't really do a lot to help solve the naming things problem in software.
 
 ## Vision
 Detail research results around where some of the pain points in naming are, analyze potential solutions, and provide guidance for making naming things easier.
 
 ## Guiding Principles
 - There are always exceptions, we can only mitigate their effect
-- **Purposefulness** This means doing this on purpose, or by design.
+- **Purposefulness** This means doing this "on purpose", or by design.
 - **Consistency** Enough said
 - **[Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)** Building on consistency, where consistency of intuitiveness is important.
 
 ## Scope
-These guidelines focus on wording over capitalization.  Capitalization is important, but that is an externally-defined style.
+These guidelines focus on wording over capitalization.  "[Casing](https://en.wikipedia.org/wiki/Letter_case#Special-case-styles)" is important, but that is a separate, independent, style.
 
 ## Detailed Guidance
 [Detailed Guidance]: #detailed-guidance
@@ -49,7 +49,7 @@ _adjective_
 /kəˈlektiv noun/  
 _noun_  
 &nbsp;&nbsp;&nbsp;&nbsp;a singular noun, such as _committee_ or _team_, that refers to a group of people, animals or things. [In American English it must be used with a singular verb]
-</dd>
+[](#deverbal)</dd>
   <dt>deverbal</dt><dd><span>  
 /ˌdēˈvərb(ə)l/
 
@@ -93,11 +93,11 @@ synonyms: _zero-affixation words_.
 
 ### Principles
 [Compartmentalization]: #compartmentalization
-**Compartmentalization** Compartmentalize things that can be reasoned about independently of other things; these are the things that require names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
+**Compartmentalization** Compartmentalize things that can be reasoned about independently of other things; these are the things that require unique names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
 
 [Namespaces]: #namespace
 ### Namespaces
-Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on functionality.  
+Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on functionality of implemented by those types.  
 
 **Use a pluralized noun for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  A `Collections` suffix signifies the namespace contains types that implement interfaces that allow types to act as collections.
 
