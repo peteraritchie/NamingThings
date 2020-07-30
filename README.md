@@ -29,7 +29,7 @@ These guidelines focus on wording over capitalization.  "[Casing](https://en.wik
 _adjective_  
 &nbsp;&nbsp;&nbsp;&nbsp;a noun that can form a plural or be used with the indefinite article.
 
-Antonyms: _uncountable noun_
+Antonyms: _[uncountable noun](#uncountable-noun)_
   </dd>
   <dt><a name="mass-noun">mass noun</a></dt><dd>
 
@@ -59,7 +59,7 @@ _adjective_
 _noun_  
 &nbsp;&nbsp;&nbsp;a deverbal noun or adjective.</span>
 
-See also: _verbal noun_
+See also: _[verbal noun](#verbal-noun)_
 </dd>
   <dt><a name="action-noun">action noun</a></dt><dd>
 
@@ -78,7 +78,7 @@ _noun_
 
 > "Verbal nouns contrast with deverbal nouns, that is, other kinds of nouns derived from verbs, such as attempt, destruction, and including nouns ending in -ing that do not have verbal force: building in _The building was empty_. They also contrast with the gerund, which also ends in -ing, but is syntactically a verb."  
 
-See also: _deverbal_
+See also: _[deverbal](#deverbal)_
 </dd>  <dt><a name="zero-derivation-words">zero-derivation words</a></dt><dd>
 
 _noun_  
@@ -101,13 +101,13 @@ Namespaces suit a couple of needs, both relating to the grouping of types.  Grou
 
 **Use a pluralized noun for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  A `Collections` suffix signifies the namespace contains types that implement interfaces that allow types to act as collections.
 
-**Use a mass [deverbal](#deverbal) noun for namespaces that group types related by functionality (but different)**.  The other grouping can cause some consternation because the grouping can easily feel subjective.  You can also group types by functional usage.  This type of grouping can be thought of as capability grouping.  In which case the namespace name can be a noun of action or a noun based on a verb.  The suffixes "-ion" and "-ing" come into play here.  e.g. `Processing` or `Administration`.
+**Use a [mass](#mass-noun) [deverbal](#deverbal) noun for namespaces that group types related by functionality (but different)**.  The other grouping can cause some consternation because the grouping can easily feel subjective.  You can also group types by functional usage.  This type of grouping can be thought of as capability grouping.  In which case the namespace name can be a [noun of action](#action-noun) or a noun based on a verb.  The suffixes "-ion" and "-ing" come into play here.  e.g. `Processing` or `Administration`.
 
-**Use countable nouns or pluralized adjectives for namespaces that classify other namespaces** <code>System.<i>Diagnostics</i>.Tracing</code>
+**Use [countable](#countable-noun) nouns or pluralized adjectives for namespaces that classify other namespaces** <code>System.<i>Diagnostics</i>.Tracing</code>
 
-**Use adjectives or mass nouns to sub-group types related by interface** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
+**Use adjectives or [mass](#mass-noun) nouns to sub-group types related by interface** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
 
-**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective).  Prefer nouns that describe an act or responsibility. Avoid ending in "-ion", avoid words ending in "-tion" or "-sion.  A "mass noun" is also called a noncountable noun.  Avoid words that function as mass deverbal nouns but often also function as adjectives (need example).
+**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective).  Prefer nouns that describe an act or responsibility. Avoid ending in "-ion", avoid words ending in "-tion" or "-sion.  A "[mass moun](#mass-noun)" is also called a [noncountable](#uncountable-noun) noun.  Avoid words that function as [mass](#mass-noun) [deverbal](#deverbal) nouns but often also function as adjectives (need example).
 
 #### Summary
 Namespace names should signify how the types in the namespaces are grouped.
@@ -123,16 +123,16 @@ Assemblies are the deployable binary groupings of compiled code.  As such, the c
 [Prefer Common Nouns]: #prefer-common-nouns
 **Prefer Common nouns** A common noun is a noun that isn't a proper noun: they are names for general things rather than names that identify specific things.
 
-**Being Successful** Avoid plural, mass, and collective nouns; as well as [words that act as nouns and other parts of speech]( # "unmarked plural form.")
+**Being Successful** Avoid plural, [mass](#mass-noun), and [collective](#collective-noun) nouns; as well as [words that act as nouns and other parts of speech]( # "unmarked plural form.")
 
 **See also** [General](#general)
 
 ### Value Types
-Avoid deverbal nouns for value types (nouns derived from verbs, e.g. -or, -ant, -ar -ian, 
+Avoid [deverbal](#deverbal) nouns for value types (nouns derived from verbs, e.g. -or, -ant, -ar -ian, 
 **See also** [General](#general)
 [Structs]: #structs
 ### Structs
-Structs often function as value types, avoid deverbal nouns for structs (nouns derived from verbs, e.g. -or, -ant, -ian, -er, etc.)
+Structs often function as value types, avoid [deverbal](#deverbal) nouns for structs (nouns derived from verbs, e.g. -or, -ant, -ian, -er, etc.)
 
 **See also** [General](#general)
 
@@ -155,7 +155,7 @@ Structs often function as value types, avoid deverbal nouns for structs (nouns d
 ### General
 **Avoid Ambiguity** Avoid using words that are prone to misinterpretation or are used to mean many things.
 
-**Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; Zero derivation words are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
+**Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms]( # "e.g. 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; [Zero derivation words](#zero-derivation-words) are when a new "word" (meaning) is created from another word without using derivation (e.g. affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
 
 *Homograph* is another name for words spelled the same, but different meaning.  
 *Metonym* means a word substituted for another with a different meaning.
