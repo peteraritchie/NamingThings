@@ -23,7 +23,7 @@ These guidelines focus on wording over capitalization.  "[Casing](https://en.wik
 ### Definitions
 [Definitions]: #definitions
 <dl>
-  <dt>countable noun</dt><dd>
+  <dt><a name="countable-noun">countable noun</a></dt><dd>
 
 /ˈkoun(t)əb(ə)l/  
 _adjective_  
@@ -31,26 +31,26 @@ _adjective_
 
 Antonyms: _uncountable noun_
   </dd>
-  <dt>mass noun</dt><dd>
+  <dt><a name="mass-noun">mass noun</a></dt><dd>
 
 /ˈmas ˌnoun/  
 _noun_  
 &nbsp;&nbsp;&nbsp;&nbsp;a noun that is usually uncountable but can be made plural or used with a or an when you are talking about different types of something.  
 &nbsp;&nbsp;&nbsp;&nbsp;For example, bread is used as a mass noun in _the shop sells several different breads_.  
   </dd>
-  <dt>uncountable noun</dt><dd>
+  <dt><a name="uncountable-noun">uncountable noun</a></dt><dd>
 
 /ˌənˈkoun(t)əb(ə)l noun/  
 _adjective_  
 &nbsp;&nbsp;&nbsp;&nbsp;a noun that cannot form a plural or be used with the indefinite article.
 </dd>
-  <dt>collective noun</dt><dd>
+  <dt><a name="collective-noun">collective noun</a></dt><dd>
 
 /kəˈlektiv noun/  
 _noun_  
 &nbsp;&nbsp;&nbsp;&nbsp;a singular noun, such as _committee_ or _team_, that refers to a group of people, animals or things. [In American English it must be used with a singular verb]
-[](#deverbal)</dd>
-  <dt>deverbal</dt><dd><span>  
+</dd>
+  <dt><a name="deverbal">deverbal</a></dt><dd><span>  
 /ˌdēˈvərb(ə)l/
 
 _adjective_  
@@ -61,7 +61,7 @@ _noun_
 
 See also: _verbal noun_
 </dd>
-  <dt>action noun</dt><dd>
+  <dt><a name="action-noun">action noun</a></dt><dd>
 
 /ˈakSH(ə)n noun/  
 _noun_  
@@ -70,7 +70,7 @@ _noun_
 synonyms:  
 &nbsp;&nbsp;&nbsp;&nbsp;_noun of action_
 </dd>
-  <dt>verbal noun</dt><dd>
+  <dt><a name="verbal-noun">verbal noun</a></dt><dd>
 
 /ˈvərbəl noun/  
 _noun_  
@@ -79,7 +79,7 @@ _noun_
 > "Verbal nouns contrast with deverbal nouns, that is, other kinds of nouns derived from verbs, such as attempt, destruction, and including nouns ending in -ing that do not have verbal force: building in _The building was empty_. They also contrast with the gerund, which also ends in -ing, but is syntactically a verb."  
 
 See also: _deverbal_
-</dd>  <dt>zero-derivation words</dt><dd>
+</dd>  <dt><a name="zero-derivation-words">zero-derivation words</a></dt><dd>
 
 _noun_  
 &nbsp;&nbsp;&nbsp;&nbsp;A process of word-formation in which there is no change to the form that undergoes it.  
@@ -87,8 +87,8 @@ _noun_
 
 synonyms: _zero-affixation words_.
 </dd>
-  <dt>metonym</dt><dd>...coming soon...</dd>
-  <dt>homograph</dt><dd>...coming soon...</dd>
+  <dt><a name="metonym">metonym</a></dt><dd>...coming soon...</dd>
+  <dt><a name="homograph">homograph</a></dt><dd>...coming soon...</dd>
 </dl>
 
 ### Principles
