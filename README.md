@@ -189,6 +189,9 @@ An event is the embodiment of a significant change in state. (Event-driven archi
 
 **Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have a tense in the past (past tense).  Not all past-tense verbs take this form, but typically past-tense verbs are a _simple present tense_ verb suffixed with "-ed".
 
+**Prefer the subject name be the name of the _domain resource_ whose state changed**.  Resources should be domain-specific and should not relate to implementation detail
+_avoid "record", "field"_, etc.
+
 To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past tense verbs used**.  Also **prefer to choose a single past tense verb for a particular circumstance**.  Without getting lost in philosophy, here's a list of past-tense verbs for use with common event/state-change scenarios in software:
 
 #### Generic Outcome-based Event Name Suffixes
@@ -202,7 +205,11 @@ This is a fairly complete list of generic types of events; when used they should
 - **Removed** means the opposite of Added, a thing has been moved out of, or removed from a container/collection
 - **Modified** means structure or schema has changed and isn't related to instantiated entities.
 
+There will, of course, be domain-specific past tense verbs.  For example _Qualified, Eligible_. Be faithful to the domain, if Qualified is an important event, model it in addition to the resource being updated: ClientQualified, ClientUpdated.
+
 #### Messages - Commands
+
+** in progres **
 
 ## References
 [.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
