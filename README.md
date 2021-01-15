@@ -106,6 +106,15 @@ _noun_
 </dd>
 </dl>
 
+### Prefer English Language Grammar Conventions
+####  Ordering of Adjectives in Noun Phrases
+English grammar order adjectives by relation, in the following order preceding the noun: 1) opinion, 2) size, 3) physical quality, 4) shape, 5) age, 6) color, 7) origin, 8) material, 9) type, 10) purpose. Examples:
+- strange, green, metallic material (1, 6, 8)
+- long, narrow, plastic brush (2, 4, 8)
+- round, Italian, bread-like Christmas cake (4, 7, 9)
+- beautiful, tall, thin, young, black-haired, Scottish person (1, 2, 3, 4, 5, 6, 7)
+- amazing, little, old, Chinese cup and saucer (1, 2, 5, 7)
+
 ### Principles
 [Compartmentalization]: #compartmentalization
 **Compartmentalization** Compartmentalize things that can be reasoned about independently of other things; these are the things that require unique names.  One thing that makes naming hard is naming things that have no unique attributes or behavior.
@@ -224,4 +233,5 @@ There will, of course, be domain-specific past tense verbs.  For example, _Quali
 ** in progres **
 
 ## References
-[.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
+[.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
+[Adjectives: order - English Grammar Today - Cambridge Dictionary](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order)  
