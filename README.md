@@ -1,3 +1,4 @@
+**3-11-21 UPDATE: Added example of [organizational guidance][Organizational Guidelines]**  
 **10-17-19 UPDATE: Techcon '19 version of the slides are [now available](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things.pptx)**
 
 # Naming Things
@@ -35,8 +36,8 @@ Antonyms: _[uncountable noun](#uncountable-noun)_
 
 /ˈmas ˌnoun/  
 _noun_  
-&nbsp;&nbsp;&nbsp;&nbsp;a noun that is usually uncountable but can be made plural or used with a or an when you are talking about different types of something.  
-&nbsp;&nbsp;&nbsp;&nbsp;For example, breads is used as a mass noun in _the shop sells several different breads_.  
+&nbsp;&nbsp;&nbsp;&nbsp;a noun that is usually uncountable but can be made plural or used with *a* or *an* when you are talking about different types of something.  
+&nbsp;&nbsp;&nbsp;&nbsp;For example, "breads" is used as a mass noun in _the shop sells several different breads_.  
   </dd>
   <dt><a name="uncountable-noun">uncountable noun</a></dt><dd>
 
@@ -48,7 +49,7 @@ _adjective_
 
 /kəˈlektiv noun/  
 _noun_  
-&nbsp;&nbsp;&nbsp;&nbsp;a singular noun, such as "committee" or "team" referring to a group of people, animals, or things. [In American English it must be used with a singular verb]
+&nbsp;&nbsp;&nbsp;&nbsp;a singular noun, such as "committee" or "team" refers to a group of people, animals, or things. [In American English it must be used with a singular verb]
 </dd>
   <dt><a name="deverbal">deverbal</a></dt><dd><span>  
 /ˌdēˈvərb(ə)l/
@@ -74,7 +75,7 @@ synonyms:
 
 /ˈvərbəl noun/  
 _noun_  
-&nbsp;&nbsp;&nbsp;&nbsp;A noun formed as an inflection of a verb and partly sharing its constructions[/forms. i.e., sometimes behave as a verb].
+&nbsp;&nbsp;&nbsp;&nbsp;A that is noun formed as an inflection of a verb and partly sharing its constructions[/forms. i.e., sometimes behave as a verb].
 
 > "Verbal nouns contrast with deverbal nouns, that is, other kinds of nouns derived from verbs, such as attempt, destruction, and including nouns ending in -ing that do not have verbal force: building in _The building was empty_. They also contrast with the gerund, which also ends in -ing, but is syntactically a verb."  
 
@@ -121,7 +122,7 @@ English grammar order adjectives by relation, in the following order preceding t
 
 [Namespaces]: #namespace
 ### Namespaces
-Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on the functionality of implemented by those types.  
+Namespaces suit a couple of needs, both relating to the grouping of types.  Grouping types within a namespace should be based on the functionality implemented by those types.  
 
 **Use a pluralized noun or noun phrase for namespaces that group types related by interface A namespace that contains types related by interface should be named with a pluralized noun**. One is a grouping of types that implement a specific interface.  A `Collections` suffix signifies the namespace contains types that implement interfaces that allow types to act like collections.
 
@@ -131,7 +132,7 @@ Namespaces suit a couple of needs, both relating to the grouping of types.  Grou
 
 **Use adjectives or [mass](#mass-noun) nouns to sub-group types related by interface** <code>System.Collections.<i>Generic</i></code>, <code>System.ComponentModel.<i>Composition</i></code>.
 
-**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective, and thus a _good_ name for it is subjective).  Prefer nouns that describe an act or responsibility. Avoid ending in "-ion", avoid words ending in "-tion" or "-sion.  A "[mass noun](#mass-noun)" is also called a [noncountable](#uncountable-noun) noun.  Avoid words that function as [mass](#mass-noun) [deverbal](#deverbal) nouns but often also function as adjectives (need example).
+**Being successful**: Perform grouping on purpose, only group types with similar attributes or similar behavior (randomly grouping types within a namespace is very subjective, and thus a _good_ name for it is subjective).  Prefer nouns that describe an act or a responsibility. Avoid ending in "-ion", avoid words ending in "-tion" or "-sion.  A "[mass noun](#mass-noun)" is also called a [noncountable](#uncountable-noun) noun.  Avoid words that function as [mass](#mass-noun) [deverbal](#deverbal) nouns but often also function as adjectives (need example).
 
 #### Summary
 Namespace names should signify how the types in the namespaces are grouped.
@@ -164,7 +165,7 @@ Structs often function as [value types](#value-types); avoid [deverbal](#deverba
 **See also** [General](#general)
 
 ### Interfaces
-**Prefer Adjectives Formed From Verbs** Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but as an interface is a _representation of an ability_, it's name should represent an action (formed from a verb).
+**Prefer Adjectives Formed From Verbs** Adjectives describe attributes of something, like abilities.  Not all adjectives describe abilities, but as an interface is a _representation of an ability_, the name should represent an action (formed from a verb).
 
 The suffixes -able, -ible, and -ive are important: these suffixes form adjectives from verbs (actions, abilities).  -able/-ible are used with verbs for interfaces representing an inherent ability of an implementation &#40;*Enumerable* in `IEnumerable`, to represents something that you can [enumerate]( # "first-perrson present tense.")&#41; (or something that has the ability to be enumerated). -ive is used with verbs for interfaces that perform a type of functionality (*Transmissive* in `ITransmissive` for something that [transmits]( # "third-person past tense")).  
 
@@ -174,7 +175,6 @@ The suffixes -able, -ible, and -ive are important: these suffixes form adjective
 **See also** [General](#general)
 
 ### Variables
-
 #### Members
 **See also** [General](#general)
 
@@ -183,45 +183,45 @@ The suffixes -able, -ible, and -ive are important: these suffixes form adjective
 
 ### General
 <a name="avoid-ending-in-prepositional-phrase">**Avoid Ending in a Prepositional Phrase**</a>  
-There's a myth that ending a sentence in a preposition is bad form.  This is a stalwart of Latin accepted practices.  But, avoiding dangling (hanging, stranded) prepositions is generally preferred (which may be where the ending-in-a-preposition comes from because it usually results in a dangling preposition). Most of the advice here is to use a noun/adjective or a noun/adjective phrase as an identifier names.  Which means a name ending with a preposition doesn't follow this advice.  I also advise against ending an identifier name with a prepositional phrase.  e.g., _IsResidentOfCommunityPropertyState_," Resident of a community property state is a noun phrase but it actually consists of a noun ("Resident") and prepositional phrase ("a community property state"). The example can be reworded to _IsCommunityPropertyStateResident_ so that the ends in a noun (and follows as verb/noun form, or more specifically past-participle/subject form for boolean identifiers.)
+There's a myth that ending a sentence in a preposition is bad form.  This is a stalwart of Latin accepted practices.  But, avoiding dangling (hanging, stranded) prepositions is generally preferred (which may be where the ending-in-a-preposition comes from because it usually results in a dangling preposition). Most of the advice here is to use a noun/adjective or a noun/adjective phrase as an identifier names.  This means a name ending with a preposition doesn't follow this advice.  I also advise against ending an identifier name with a prepositional phrase.  e.g., _IsResidentOfCommunityPropertyState_," Resident of a community property state is a noun phrase but it actually consists of a noun ("Resident") and prepositional phrase ("a community property state"). The example can be reworded to _IsCommunityPropertyStateResident_ so that the ends in a noun (and follows as verb/noun form, or more specifically past-participle/subject form for boolean identifiers.)
 
 <a name="avoid-ambiguity">**Avoid Ambiguity**</a>  
 Avoid using words that are prone to misinterpretation or are used to mean many things.
 
 **Avoid _[Zero Derivation Words]( # "also called conversion, is a kind of word formation involving the creation of a word--of a new word class--from an existing word--of a different word class--")_** &#40;**Avoid _Homographs_** or **Avoid _[Metonyms](#metonym) ("e.g., 'Washington' to mean 'federal government' Also: nounification, e.g.: 'ask' in place of 'question'.  ")_**&#41; [Zero derivation words](#zero-derivation-words) are when a new "word" (meaning) is created from another word without using derivation (e.g., affixes are common in creating new meanings and words, _deriving_ them from a root word and adding the affix). 
 
-*Homograph* is another name for words spelled the same, but different meaning.  
+*Homograph* is another name for words spelled the same, but with a different meaning.  
 *Metonym* means a word substituted for another with a different meaning.
 
 ### Idiosyncratic Guidelines
-These get more into what you might call "non-generic" identifier guidelines, guidelines that complement the from-of-speech rules.
+These get more into what you might call "non-generic" identifier guidelines, guidelines that complement the form-of-speech rules.
 
 #### Messages - Events
-An event is the embodiment of a significant change in state. (Event-driven architecture n.d.)  That fact (the occurrence) is recognized by software and represented by an instance of an event identifier.  It is a fact about something that happened in the past, it cannot be changed nor retracted. (Bonér 2017)  A _domain_ event signals something that has happened in the outside world that is of interest to the application. It's transmitted to the application in some data structure (event identifier), carrying with it the data that describes the event. (Fowler 2006)
+An event is the embodiment of a significant change in state. (Event-driven architecture n.d.)  That fact (the occurrence) is recognized by the software and represented by an instance of an event identifier.  It is a fact about something that happened in the past, it cannot be changed nor retracted. (Bonér 2017)  A _domain_ event signals something that has happened in the outside world that is of interest to the application. It's transmitted to the application in some data structure (event identifier), carrying with it the data that describes the event. (Fowler 2006)
 
-**Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have a tense in the past (past participle).  Not all past participles take this form, but typically past participles are a _simple present tense_ verb suffixed with "-ed".
+**Prefer to name event identifiers with a _&lt;subject&gt;&lt;verb&gt;_ convention**.  _Subject_ is a common noun or a noun phrase and the _verb_ should have tense in the past (past participle).  Not all past participles take this form, but typically past participles are a _simple present tense_ verb suffixed with "-ed".
 
-**Prefer the subject name be the name of the _domain resource_ whose state changed**.  Resources should be domain-specific and should not relate to implementation detail;
+**Prefer the subject name to be the name of the _domain resource_ whose state changed**.  Resources should be domain-specific and should not relate to implementation detail;
 _avoid "record", "field"_, etc.
 
-To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past participles used**.  Also **prefer to choose a single past participle for a particular circumstance**.  Without getting lost in philosophy, here's a list of past participles for use with common event/state-change scenarios in software:
+To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past participles used**.  Also, **prefer to choose a single past participle for a particular circumstance**.  Without getting lost in philosophy, here's a list of past participles for use with common event/state-change scenarios in software:
 
 #### Generic Outcome-based Event Name Suffixes
 This is a fairly complete list of generic types of events; when used, they should be consistent with the meanings described here:
 - **Created** signifies something new as come into existence (rather than Added).
-- **Added** signifies something as been added to a container or collection.
+- **Added** signifies something has been added to a container or collection.
 - **Updated** signifies the value properties or attributes of an existing thing (entity) have been changed.
 - **Changed** signifies an entire thing (entity) has been replaced with another.
 - **Deleted** means something is no longer accessible in some context.
 - **Destroyed** means removed from existence, no possible way to ever get it back.
-- **Removed** means the opposite of Added, a thing has been moved out of, or removed from a container/collection
+- **Removed** means the opposite of Added, a thing has been moved out of or removed from a container/collection
 - **Modified** means structure or schema has changed and isn't related to instantiated entities.
 
 There will, of course, be domain-specific past tense verbs.  For example, _Qualified, Eligible_. Be faithful to the domain; if Qualified is an important event, model it in addition to the resource being updated: ClientQualified, ClientUpdated.
 
 #### Examples of Domain-specific Past Participles for Event Naming
 -	**Locked** As in Interest Rate _Locked.
--	**Moved** As Client _Moved_ to a different Address.
+-	**Moved** As Client _Moved_ to a different address.
 -	**Sent** As in Underwriting Request _Sent_.
 -	**Corrected** As in Client Name _Corrected_.
 -	**Began** As in Loan Processing _Began_.
@@ -230,7 +230,31 @@ There will, of course, be domain-specific past tense verbs.  For example, _Quali
 
 #### Messages - Commands
 
-** in progres **
+** in progress **
+
+### Organizational Guidelines
+[Organizational Guidelines]: #organizational-guidelines
+What is described here is designed around grammar and thus very systematic and repeatable (automatable, someday.)  That's doesn't mean it's perfect for everyone.  As with languages, there are dialects.  Each person or organization may have its own dialect, eh.  So I highly recommend documenting that dialect.  That could be to reference this and show additions.  Copy this and modify it. etc...
+
+#### Example Organizational Guidance
+##### Naming Suffixes
+- Date & Time : …`DateTime`
+- Date: …`Date`
+- Counts: …`Count`
+- Identifiers: …`Identifier`
+- Text: …`Name`, …`Description`, …`DisplayText`
+- Percentages: …`Ratio`
+- Interest Rates: …`Rate`, with a precision of three decimal places; unique from `Ratio`
+- Monetary Values: …`Amount`, …`Payment`
+
+##### Naming Prefixes
+###### Assertions
+- Attribute (property) assertions have a prefix that is a present/past/third-person of the verb *to be*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Is,” “Are,” “Was,” “Were,” “Has,” or “Had.”
+- Behavior (act, action) assertions have a prefix that is a future-tense form of the verb *able to*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Is,” “Are,” “Was,” “Were,” “Has,” or “Had,” or “Can.”
+
+
 
 ## References
 [.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
