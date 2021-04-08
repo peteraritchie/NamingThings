@@ -208,7 +208,7 @@ To [Avoid Ambiguity](#avoid-ambiguity) **Prefer to limit the number of past part
 
 #### Generic Outcome-based Event Name Suffixes
 This is a fairly complete list of generic types of events; when used, they should be consistent with the meanings described here:
-- **Created** signifies something new as come into existence (rather than Added).
+- **Created** signifies something new has come into existence (rather than Added).
 - **Added** signifies something has been added to a container or collection.
 - **Updated** signifies the value properties or attributes of an existing thing (entity) have been changed.
 - **Changed** signifies an entire thing (entity) has been replaced with another.
