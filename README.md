@@ -258,4 +258,6 @@ What is described here is designed around grammar and thus very systematic and r
 
 ## References
 [.NET Framework Guidelines - Naming](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
+[The importance of naming in programming - Carl Alexander](https://carlalexander.ca/importance-naming-programming/)  
+[A Guide for Naming Things in Programming](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)  
 [Adjectives: order - English Grammar Today - Cambridge Dictionary](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order)  
