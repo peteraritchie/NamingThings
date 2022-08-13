@@ -1,4 +1,4 @@
-**8-8-22 UPDATE: [Added KCDC 2022 Slides](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things%20(KCDC%202022).pptx)
+**8-8-22 UPDATE: [Added KCDC 2022 Slides](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things%20(KCDC%202022).pptx)**  
 **3-11-21 UPDATE: Added example of [organizational guidance][Organizational Guidelines]**  
 **10-17-19 UPDATE: Techcon '19 version of the slides are [now available](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things.pptx)**
 
@@ -262,3 +262,4 @@ What is described here is designed around grammar and thus very systematic and r
 [The importance of naming in programming - Carl Alexander](https://carlalexander.ca/importance-naming-programming/)  
 [A Guide for Naming Things in Programming](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)  
 [Adjectives: order - English Grammar Today - Cambridge Dictionary](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order)  
+[changelog.com change type naming](https://keepachangelog.com/en/1.0.0/#types)  
