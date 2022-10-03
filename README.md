@@ -1,3 +1,4 @@
+**10-3-222 UPDATE: [Added Prairie Dev Con 2022 Regina Slides](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things%20PrDC%20Regina%202022.pptx)
 **8-8-22 UPDATE: [Added KCDC 2022 Slides](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things%20(KCDC%202022).pptx)**  
 **3-11-21 UPDATE: Added example of [organizational guidance][Organizational Guidelines]**  
 **10-17-19 UPDATE: Techcon '19 version of the slides are [now available](https://github.com/peteraritchie/NamingThings/blob/master/Slides/Naming%20Things.pptx)**
