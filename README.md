@@ -264,3 +264,4 @@ What is described here is designed around grammar and thus very systematic and r
 [A Guide for Naming Things in Programming](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)  
 [Adjectives: order - English Grammar Today - Cambridge Dictionary](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order)  
 [changelog.com change type naming](https://keepachangelog.com/en/1.0.0/#types)  
+[Azure Resource Tagging Practices](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging?source=recommendations)
