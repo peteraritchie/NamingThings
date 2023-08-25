@@ -185,6 +185,17 @@ The suffixes -able, -ible, and -ive are important: these suffixes form adjective
 #### Parameters
 **See also** [General](#general)
 
+### Branches
+
+- `bugfix/description`
+- `features/feature-name`
+- `features/feature-area/feature-name`
+- `hotfix/description`
+- `users/username/description`
+- `users/username/workitem`
+
+[See also](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery#code-try-0)
+
 ### General
 <a name="avoid-ending-in-prepositional-phrase">**Avoid Ending in a Prepositional Phrase**</a>  
 There's a myth that ending a sentence in a preposition is bad form.  This is a stalwart of Latin accepted practices.  But, avoiding dangling (hanging, stranded) prepositions is generally preferred (which may be where the ending-in-a-preposition comes from because it usually results in a dangling preposition). Most of the advice here is to use a noun/adjective or a noun/adjective phrase as an identifier names.  This means a name ending with a preposition doesn't follow this advice.  I also advise against ending an identifier name with a prepositional phrase.  e.g., _IsResidentOfCommunityPropertyState_," Resident of a community property state is a noun phrase but it actually consists of a noun ("Resident") and prepositional phrase ("a community property state"). The example can be reworded to _IsCommunityPropertyStateResident_ so that the ends in a noun (and follows as verb/noun form, or more specifically past-participle/subject form for boolean identifiers.)
