@@ -9,3 +9,4 @@ Suffixes that create adjectives:
 - -ous: full of a certain quality
 - -y: having the characteristics of something
 - -ish: similar to a certain quality
+- -ing: having a state or condition. Usually describes an action that is happening or has just happened.
