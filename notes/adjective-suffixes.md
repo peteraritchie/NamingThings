@@ -25,8 +25,8 @@ Suffix | Verb – Adjective | Verb – Adjective | Verb – Adjective
 -ANT  performing agent | please – pleasant<br/>resist – resistant | rely – reliant<br/>vacate – vacant | ignore – ignorant<br/>comply – compliant
 -ENT  performing agent | excel – excellent<br/>urge – urgent | depend – dependent<br/>differ – different | confide – confident<br/>equal – equivalent
 -IVE causing effect | attract – attractive<br/>posses – possessive | create – creative<br/>prevent – preventive | select – selective<br/>destruct – destructive
--ING  causing effect | amuse – amusing<br/>relax –relaxing | excite – exciting<br/>surprise –surprising | confuse – confusing<br/>amaze – amusing
--ED  receiving effect | amuse – amused<br/>relax – relaxed | excite – excited<br/>surprise – surprised | confuse – confused<br/>overwhelm – overwhelmed
+-ING  causing effect | attract – attracting<br/>amuse – amusing<br/>relax –relaxing | excite – exciting<br/>surprise –surprising | confuse – confusing<br/>amaze – amusing
+-ED  receiving effect | attract – attracted<br/>amuse – amused<br/>relax – relaxed | excite – excited<br/>surprise – surprised | confuse – confused<br/>overwhelm – overwhelmed
 -EN  receiving effect | freeze – frozen<br/>braze – brazen | lighten – lightened<br/>shorten – shortened | darken – darkened<br/>widen – widened
 
 ## From Nouns
