@@ -59,4 +59,7 @@ SUFFIX | NOUN – ADJECTIVE | NOUN – ADJECTIVE | NOUN – ADJECTIVE
 -ABLE, `IEnumerable`, something that has the ability counted or named one-by-one, is composed of individual discrete items.
 ILocationary
 
+Prefer `able`/`ible` to mean for the ability of something that can be done, rather than the prepensity of something that cane be done to it.
+e.g. a List is enumerable, and although a element in that list may be enumerated, prefer not to associate the enumerability with the element, only the container.
 A more abstract concept can be named with a noun.  IRepository, for example.
+When adjective of an ability does not exist, a 3rd person presetnt verb could be used.  e.g. fetches, to denote something has the ability to fetch something.
