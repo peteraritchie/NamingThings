@@ -54,3 +54,9 @@ SUFFIX | NOUN – ADJECTIVE | NOUN – ADJECTIVE | NOUN – ADJECTIVE
 -LY  like | friend – friendly<br/>day – daily | cost – costly<br/>order – orderly | month – monthly<br/>coward – cowardly
 -OUS  quality, nature, having a certain characteristic. | poison – poisonous<br/>courtesy – courteous | danger – dangerous<br/>mystery – mysterious | nerve – nervous<br/>victory – victorious
 -Y  like, having the characteristics of something | rain – rainy<br/>mess – messy | fun – funny<br/>dirt – dirty | dirt – dirty<br/>spot – spotty
+
+## Notes
+-ABLE, `IEnumerable`, something that has the ability counted or named one-by-one, is composed of individual discrete items.
+ILocationary
+
+A more abstract concept can be named with a noun.  IRepository, for example.
