@@ -1,32 +1,35 @@
 Suffixes that create adjectives:
 
-- -able: able to be done or able to be used. Able to be done alone, capable of being.
 - -al: related/relating to a certain thing
+- -ary:
 - -ful: full of a certain quality. Having the characteristic of.
 - -ic: pertaining to a certain thing
-- -ive: having a certain quality. Something that is.
+- -ical: 
+- -ish: similar to a certain quality
 - -less: without a certain quality.
 - -like: Resembling something.
+- -ly: 
 - -ous: full of a certain quality. Having a certain characteristic.
 - -y: having the characteristics of something
-- -ish: similar to a certain quality
+- -able: able to be done or able to be used. Able to be done alone, capable of being.
+- -ive: having a certain quality. Something that is.
 - -ing: having a state or condition. Usually describes an action that is happening or has just happened.
 
 ## From Nouns
 
 SUFFIX | NOUN – ADJECTIVE | NOUN – ADJECTIVE | NOUN – ADJECTIVE
 --- | --- | --- | --- 
--AL     relating to | accident – accidental<br/>region – regional | brute – brutal<br/>person – personal | region – regional<br/>universe –universal
+-AL     related/relating to | accident – accidental<br/>region – regional | brute – brutal<br/>person – personal | region – regional<br/>universe –universal
 -ARY  relating to quality or place | custom – customary<br/>compliment – complimentary | moment – momentary<br/>honor – honorary | caution – cautionary<br/>diet – dietary
--FUL  full of | beauty – beautiful<br/>skill – skillful | wonder – wonderful<br/>success – successful | awe – awful<br/>delight – delightful | 
--IC  having the nature of; caused by | athlete – athletic<br/>photograph – photographic | base – basic<br/>science – scientific | history – historic<br/>rhythm– rhythmic
+-FUL  full of, having the characteristic of. | beauty – beautiful<br/>skill – skillful | wonder – wonderful<br/>success – successful | awe – awful<br/>delight – delightful | 
+-IC  having the nature of; caused by, pertaining to a certain thing | athlete – athletic<br/>photograph – photographic | base – basic<br/>science – scientific | history – historic<br/>rhythm– rhythmic
 -ICAL  having the nature of | magic – magical<br/>practice – practical | logic – logical<br/>statistic – statistical | history – historical<br/>alphabet – alphabetical
--ISH  origin, nature | fool – foolish<br/>sheep – sheepish | child – childish<br/>pink – pinkish | self – selfish<br/>girl – girlish
--LESS  without | power – powerless<br/>use – useless | friend – friendless<br/>home – homeless | worth – worthless<br/>penny – penniless
--LIKE  like | like – lifelike<br/>child – childlike | lady – ladylike<br/>bird – birdlike | war – warlike<br/>spring – springlike
+-ISH  origin, nature; similar to a certain quality | fool – foolish<br/>sheep – sheepish | child – childish<br/>pink – pinkish | self – selfish<br/>girl – girlish
+-LESS  without, without a certain quality | power – powerless<br/>use – useless | friend – friendless<br/>home – homeless | worth – worthless<br/>penny – penniless
+-LIKE  like, resembling something. | like – lifelike<br/>child – childlike | lady – ladylike<br/>bird – birdlike | war – warlike<br/>spring – springlike
 -LY  like | friend – friendly<br/>day – daily | cost – costly<br/>order – orderly | month – monthly<br/>coward – cowardly
--OUS  quality, nature | poison – poisonous<br/>courtesy – courteous | danger – dangerous<br/>mystery – mysterious | nerve – nervous<br/>victory – victorious
--Y  like | rain – rainy<br/>mess – messy | fun – funny<br/>dirt – dirty | dirt – dirty<br/>spot – spotty
+-OUS  quality, nature, having a certain characteristic. | poison – poisonous<br/>courtesy – courteous | danger – dangerous<br/>mystery – mysterious | nerve – nervous<br/>victory – victorious
+-Y  like, having the characteristics of something | rain – rainy<br/>mess – messy | fun – funny<br/>dirt – dirty | dirt – dirty<br/>spot – spotty
 
 ## From Verbs
 
