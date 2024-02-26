@@ -4,7 +4,7 @@
 
 SUFFIX | VERB – NOUN | VERB – NOUN | VERB – NOUN
 --- | --- | --- | ---
--AL    condition, quality | arrive –arrival<br/>approve – approval | deny –denial<br/>propose –proposal | refuse – refusal<br/>dismiss – dismissal
+-AL    condition, quality | arrive – arrival<br/>approve – approval | deny – denial<br/>propose –proposal | refuse – refusal<br/>dismiss – dismissal
 -ANCE / -ENCE     action, state, condition or quality | attend –attendance<br/>accept –acceptance | prefer – preference<br/>insure – insurance | refer – reference<br/>exist –existence
 -ATION / -TION  action or resulting state | educate – education<br/>inform – information | eliminate – elimination<br/>declare – declaration | combine – combination<br/>immigrate – immigration
 -SION  action or resulting state  | confuse – confusion<br/>decide – decision | divide –division<br/>revise – revision | impress – impression<br/>profess–profession
