@@ -24,18 +24,28 @@ Suffix | Verb – Adjective | Verb – Adjective | Verb – Adjective
 -IBLE  able, can do | access – accessible<br/>flex – flexible | force – forcible<br/>permit – permissible | sense – sensible<br/>force – forcible
 -ANT  performing agent | attract – attractant<br/>please – pleasant<br/>resist – resistant | rely – reliant<br/>vacate – vacant | ignore – ignorant<br/>comply – compliant
 -ENT  performing agent | excel – excellent<br/>urge – urgent | depend – dependent<br/>differ – different | confide – confident<br/>equal – equivalent
+-ATIVE | talk – talkative<br/>
 -IVE causing effect | attract – attractive<br/>posses – possessive | create – creative<br/>prevent – preventive | select – selective<br/>destruct – destructive
 -ING  causing effect | attract – attracting<br/>amuse – amusing<br/>relax –relaxing | excite – exciting<br/>surprise –surprising | confuse – confusing<br/>amaze – amusing
 -ED  receiving effect | attract – attracted<br/>amuse – amused<br/>relax – relaxed | excite – excited<br/>surprise – surprised | confuse – confused<br/>overwhelm – overwhelmed
 -EN  receiving effect | freeze – frozen<br/>braze – brazen | lighten – lightened<br/>shorten – shortened | darken – darkened<br/>widen – widened
 
+-ED when suffixed with a verb can describe a persons feelings (-ED | bore – bored), avoid when naming things, it can conflict with an property or attribute of something.  Prefer -ING for adjectives describing cause.
+
 ## From Nouns
 
 SUFFIX | NOUN – ADJECTIVE | NOUN – ADJECTIVE | NOUN – ADJECTIVE
 --- | --- | --- | --- 
+-ABLE | comfort – comforable | | 
 -AL     related/relating to | accident – accidental<br/>region – regional | brute – brutal<br/>person – personal | region – regional<br/>universe –universal
 -ARY  relating to quality or place | custom – customary<br/>compliment – complimentary | moment – momentary<br/>honor – honorary | caution – cautionary<br/>diet – dietary
+-ATE  having the specific thing/attribute | lobe – lobate | |
+-ATE  characterized by the specific things/attribute | Italian – Itialianate | |
+-ATE  resembling the specific thing/attribute | palm – palmate | |
+-EN | | |
+-ETIC | | |
 -FUL  full of, having the characteristic of. | beauty – beautiful<br/>skill – skillful | wonder – wonderful<br/>success – successful | awe – awful<br/>delight – delightful | 
+-IBLE | | |
 -IC  having the nature of; caused by, pertaining to a certain thing | athlete – athletic<br/>photograph – photographic | base – basic<br/>science – scientific | history – historic<br/>rhythm– rhythmic
 -ICAL  having the nature of | magic – magical<br/>practice – practical | logic – logical<br/>statistic – statistical | history – historical<br/>alphabet – alphabetical
 -ISH  origin, nature; similar to a certain quality | fool – foolish<br/>sheep – sheepish | child – childish<br/>pink – pinkish | self – selfish<br/>girl – girlish
