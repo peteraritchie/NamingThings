@@ -1,1365 +1,1363 @@
 # Active Verbs
 
-Agree
-Nod
-Consent
-Comply
-Concur
-Accept
-Acknowledge
-Consent
-Appear
-Show
-Flash
-Materialize
-Surface
-Bloom
-Flower
-Manifest
-Surface
-Emerge
-Develop
-Spawn
-Arrive
-Arise
-Ask
-Request
-Question
-Inquire
-Pose
-Proposition
-Solicit
-Plead
-Cross-examine
-Demand
-Grill
-Interrogate
-Needle
-Query
-Quiz
-Attack
-Assault 
-Strike
-Ambush
-Assail
-Rush
-Storm
-Bombard
-Barrage
-Smite
-Charge
-Molest
-Waylay
-Clobber
-Battle
-Batter
-Hammer
-Beat
-Beset
-Combat
-Overwhelm
-Raid
-Attempt
-Try
-Endeavor
-Undertake
-Strive
-Tackle
-Embark
-Shot
-Strive
-Seek
-Gamble
-Chance
-Venture
-Break
-Crack 
-Rupture
-Smash
-Shatter
-Fracture
-Splinter
-Pulverize
-Tear
-Rend
-Snap
-Burst
-Explode
-Bust
-Damage
-Fragment
-Split (see SPLIT)
-Bring
-Fetch
-Gather
-Retrieve
-Return
-Carry
-Deliver
-Lug
-Fetch
-Gather
-Guide
-Pack
-Tote
-Convey
-Import
-Pick up
-Build
-Erect
-Raise
-Frame
-Shape
-Firm
-Construct
-Layer
-Stack
-Reinforce
-Fortify
-Create
-Fashion
-Form
-Bump
-Nudge
-Tap
-Jostle
-Jar
-Knock
-Jolt
-Thump
-Butt
-Clatter
-Strike
-Whack
-Slam
-Rap
-Call
-Summon
-Shout
-Request
-Cry
-Yell
-Scream
-Holler
-Utter
-Exclaim
-Hail
-Signal
-Bellow
-Bawl
-Roar
-Proclaim
-Change
-Shift
-Transform
-Modify
-Twist
-Mutate
-Distort
-Blur
-Flux
-Adjust
-Switch
-Fluctuate
-Warp
-Alter
-Adapt
-Evolve
-Reform
-Vary
-Chase
-Hunt 
-Trail
-Pursue
-Track
-Follow
-Stalk 
-Shadow
-Hound
-Case
-Choose
-Pick
-Draw
-Select
-Vote
-Opt
-Pluck
-Prefer
-Winnow
-Determine
-Climb
-Mount
-Ascend
-Rise 
-Shimmy
-Scramble
-Scale
-Heave
-Spring
-Top
-Crest
-Close
-Shut
-Seal
-Shutter
-Slam
-Fasten
-Sheathe
-Fold
-Batten
-Cage
-Secure
-Batten
-Lock down
-Plug
-Collect
-Gather
-Corral
-Garner
-Group
-Hoard
-Scrape
-Stockpile
-Reap
-Harvest
-Amass
-Accrue
-Assemble
-Compile
-Save
-Cache
-Store
-Come
-Approach
-Arrive
-Enter
-Advance
-Converge
-Meet
-Appear
-Show up
-Attend
-Cover
-Shelter
-Cloak
-Shroud
-Enclose
-Clothe
-Screen
-Conceal
-Hide
-Disguise
-Mask
-Bury
-Smother
-Crust
-Cloud
-Shield
-Shade
-Film
-Seal
-Envelop
-Veil
-Wrap
-Blanket
-Obscure
-Curtain (see HIDE)
-Cross
-Traverse
-Pass 
-Ford
-Bridge
-Glide
-Cut over
-Cry
-Howl
-Whimper
-Call
-Scream
-Shriek
-Squeal
-Roar
-Mewl
-Hoot
-Squall
-Wail
-Holler
-Yelp
-Bawl
-Screech
-Yammer
-Whoop
-Bray
-Cheer
-Yell
-Shout
-Trill
-Cut
-Cleave
-Chop
-Chip
-Sever
-Slice
-Snip
-Divide
-Prune
-Trim
-Split
-Axe
-Slash
-Rend
-Tear
-Thin
-Crop
-Carve
-Dissect
-Hack
-Hew
-Nick
-Pierce
-Saw
-Score
-Shave
-Shear
-Dig
-Mine
-Delve
-Excavate
-Burrow
-Drill
-Core
-Hollow
-Rout
-Unearth
-Gouge
-Tunnel
-Exhume
-Dredge up
-Drag
-Draw
-Pull
-Lug
-Haul
-Tow
-Tote
-Trawl
-Yank
-Trail
-Tug
-Yarn
-Transport
-Enter
-Penetrate
-Invade
-Board
-Access
-Barge in
-Burst into
-Trespass
-Drop in
-Wander
-Infiltrate
-Intrude
-Encroach
-Pierce
-Escape
-Evade
-Flee
-Avoid
-Bail
-Run
-Elude
-Clear out
-Dodge
-Duck
-Bolt
-Sidestep
-Scramble
-Leave
-Slip out
-Sneak away (see LEAVE)
-Fall
-Tumble
-Collapse
-Spill
-Plunge
-Crumple
-Pitch 
-Crash
-Drop 
-Buckle 
-Plummet
-Slant
-Slip
-Dive
-Stumble
-Topple
-Sink
-Slump
-Trip
-Fight
-Battle
-Tussle
-Wrestle
-Scuffle
-Duel
-Brawl
-Joust
-Spar
-War
-Clash
-Grapple
-Scrap
-Quarrel
-Struggle
-Assault
-Attack
-Feud
-Skirmish
-Find
-Discover
-Locate
-Detect
-Notice
-Catch
-Obtain
-Solve
-Acquire
-Uncover
-Unearth
-Reveal
-Expose
-Fit
-Set 
-Rig
-Cram
-Place
-Nest
-Mold
-Blend
-Wedge
-Implant
-Lock
-Apply
-Arrange
-Stuff
-Force
-Jam
-Pack
-Press
-Pound
-Fix
-Repair
-Patch
-Mend
-Cure
-Service
-Darn
-Cobble
-Rebuild
-Tinker
-Refit
-Maintain
-Renovate
-Improve
-Correct
-Doctor
-Restore
-Get
-Take
-Receive
-Catch
-Gain
-Obtain
-Earn
-Reap
-Gather
-Score
-Win
-Acquire
-Accomplish
-Procure
-Attain
-Elicit
-Extract
-Fetch
-Inherit
-Secure
-Give
-Gift
-Pass 
-Toss
-Hand
-Deliver
-Distribute
-Offer
-Donate
-Bestow 
-Grant
-Parcel out
-Sacrifice
-Award
-Bequeath
-Confer
-Dispense
-Present
-Grab
-Take 
-Steal
-Snatch
-Seize 
-Clutch
-Hook
-Grip
-Net
-Snag 
-Arrest
-Apprehend
-Appropriate
-Claim
-Grapple
-Trap
-Catch
-Snap up
-Nick
-Wrench
-Pluck
-Help
-Aid
-Support
-Assist
-Comfort
-Boost
-Further
-Relieve
-Attend
-Nurture
-Advise
-Guide
-Encourage
-Heal
-Advocate
-Befriend
-Intercede
-Save
-Serve
-Hide
-Conceal
-Obscure
-Cover
-Disguise
-Mask
-Hole up
-Squirrel away
-Stash
-Smuggle
-Stow
-Bury
-Camouflage
-Protect
-Screen (See COVER)
-Hit
-Bash
-Smack
-Slap
-Slash
-Slam 
-Punch
-Clap
-Bump
-Swing
-Slug
-Poke
-Wallop
-Knock
-Slam 
-Drill
-Smoke
-Deck
-Ram
-Strike
-Beat
-Clobber
-Flog
-Pound
-Swat
-Whack
-Hold
-Cradle
-Grasp
-Support
-Bolster
-Carry
-Prop
-Shoulder
-Shelter
-Handle
-Grip
-Clasp
-Clench
-Clutch
-Squeeze
-Hurry
-Speed
-Rush
-Hustle
-Scamper
-Pelt
-Scurry
-Bolt
-Bustle
-Dash
-Advance
-Glide
-Cruise
-Sweep
-Zip
-Slide
-Scuttle
-Expedite
-Hasten
-Quicken
-Join
-Meld
-Blend
-Weld
-Hinge
-Staple
-Pin
-Splice
-Couple
-Seam
-Stitch
-Tether
-Unite
-Marry
-Knit
-Bridge
-Add
-Graft
-Glue
-Cement
-Merge
-Adhere
-Affix
-Attach
-Combine
-Fasten
-Fuse
-Link
-Pair
-Weave
-Jump
-Leap 
-Bounce
-Spring
-Vault
-Bound
-Hop
-Hurdle
-Pounce
-Trounce
-Skip
-Lurch
-Surge
-Leapfrog
-Kick
-Boot
-Punt
-Dropkick
-Know
-Sense
-Perceive
-Detect
-Intuit
-Feel
-Realize
-Understand
-Identify
-Discern
-Lay
-Deposit
-Set
-Place
-Position
-Rest
-Plant
-Settle
-Nest
-Lodge
-Seat
-Spread
-Drop
-Put
-Leave
-Depart
-Abandon
-Set forth
-Vacate
-Quit
-Maroon
-Evacuate
-Take off
-Ditch
-Forsake
-Split
-Scram
-Withdraw
-Disappear
-Defect
-Exit
-Retire (see ESCAPE)
-Lessen
-Fade
-Bleed
-Evaporate
-Shrink
-Wane
-Shrivel
-Slacken
-Curb
-Weaken
-Taper
-Dampen
-Deplete
-Lighten
-Limit
-Trim
-Reduce
-Curb
-Cull
-Dwindle
-Blunt
-Abate
-Minimize
-Diminish
-Curtail
-Cut back
-Decrease
-Mitigate
-Thin out
-Lift
-Raise/Rise
-Hoist
-Heave
-Elevate
-Winch
-Heft
-Crane 
-Hike
-Boost
-Jack up
-Mount
-Uphold
-Listen
-Hear
-Eavesdrop
-Heed
-Attend
-Mind
-Monitor
-Overhear
-Tune in
-Catch
-Look
-Eye
-Gawk
-Stare
-Watch
-Peek
-Ogle
-Browse
-Glimpse
-Leer
-Glance
-Peep
-Squint
-Scan
-Seek
-Notice
-See
-Focus
-Behold (See WATCH)
-Make
-Fashion
-Invent
-Forge
-Brew
-Create
-Form
-Sculpt
-Assemble
-Mold
-Combine
-Beget
-Conceive
-Design
-Forge
-Produce
-Shape
-Move 
-Slide
-Shift
-Jar
-Maneuver
-Position
-Nudge
-Budge
-Pop out
-Work at
-Displace
-Relocate
-Tap
-Fiddle
-Jiggle
-Need
-Require
-Demand
-Exact
-Claim (see WANT)
-Open
-Spread
-Unfold
-Peel
-Unzip
-Reveal
-Widen
-Expose
-Gape
-Bare
-Expand
-Unbolt
-Unlock
-Unhinge
-Unfasten
-Uncover
-Unfurl
-Unroll
-Display
-Uncork
-Undo
-Free
-Release
-Play
-Dabble
-Act 
-Gambol
-Flirt
-Caper
-Toy
-Maneuver
-Frolic
-Entertain
-Cavort
-Clown
-Rejoice
-Romp
-Dally
-Frisk
-Joke
-Kid
-Tease
-Pick
-Gather
-Collect
-Pluck
-Select
-Bag
-Clasp
-Grasp
-Hook
-Harvest
-Cull
-Push
-Shove
-Press
-Nudge
-Drive
-Prod
-Poke
-Elbow
-Jostle
-Knock
-Strain
-Thrust
-Crowd
-Jam
-Squish
-Bulldoze
-Force
-Crush
-Encourage
-Impel
-Muscle
-Propel
-Remember
-Recall
-Memorialize
-Recognize
-Recollect
-Call to mind
-Revive
-Think back to
-Flash back to
-Reminisce about
-Ride
-Gallop
-Jockey
-Mount
-Surf
-Cruise
-Speed
-Coast
-Glide
-Rub
-Chafe
-Nuzzle
-Caress
-Grind
-Smudge
-Smear
-Scrub
-Lather
-Polish
-Knead
-Scrape
-Scour
-Stroke
-Massage
-Smooth
-Buff
-Graze
-Brush
-Touch
-Caress
-Scrub
-Smooth
-Wipe (see TOUCH)
-Run
-Gallop
-Trot
-Race 
-Streak
-Lope
-Scurry
-Scamper
-Jog
-Dash
-Scuttle
-Rush
-Stampede
-Jet
-Dart
-Scoot
-Speed
-Sprint
-Canter
-Amble
-Scoot
-Barrel
-Flee
-Fly
-Hustle
-Pelt
-Say
-Speak
-Articulate
-Yammer
-Blubber
-Blab
-Address
-Mouth
-Utter
-Murmur
-Mutter
-Stammer
-Swear
-Curse
-Rant
-Rave
-Jabber
-Converse
-Discuss
-Whisper
-Snarl
-Stutter
-Banter
-Chant
-Chat
-Dictate
-Drone
-Drawl
-Spout
-Jibber
-Sputter
-Yell
-Search
-Quest
-Forage
-Hunt
-Rummage
-Seek
-Probe
-Delve
-Scout
-Scour
-Investigate
-Ferret
-Browse
-Pursue
-Explore
-Ransack
-Sift
-Dig
-Examine
-Inquire
-Send
-Ship
-Cast
-Maneuver
-Transport
-Broadcast
-Transfer
-Radiate
-Channel
-Route
-Volley
-Transmit
-Relay
-Wire
-Publish
-Shake
-Shiver
-Convulse
-Quiver
-Quake
-Tremble
-Totter
-Judder
-Vibrate
-Rattle
-Jolt
-Churn
-Shudder
-Tremor
-Slosh
-Agitate
-Quaver
-Thrash
-Flutter
-Jerk
-Twitch
-Spasm
-Lurch
-Squirm
-Twinge
-Palpitate
-Throb
-Ripple
-Sit
-Recline
-Squat
-Perch
-Roost
-Rest
-Sprawl
-Straddle
-Crouch
-Huddle
-Slouch
-Lounge
-Flop
-Laze
-Plop
-Park
-Hunker
-Relax
-Settle
-Split
-Part
-Cleave
-Chop
-Rupture
-Hack
-Sever
-Slit
-Carve
-Cut
-Divide
-Halve
-Break
-Sunder
-Separate
-Rend
-Rip
-Start
-Begin
-Jump
-Launch
-Embark
-Enter
-Set out
-Dawn
-Plunge
-Erupt
-Birth
-Spring
-Sally
-Activate
-Initiate
-Commence
-Initiate
-Pioneer
-Stop
-Retire
-Halt
-Cease
-Quit
-Stall
-Pause
-End
-Hitch
-Finish
-Rein
-Freeze
-Suspend
-Hold
-Belay
-Terminate
-Desist
-Conclude
-Discontinue
-Refrain
-Throw
-Hurl
-Flip
-Toss
-Fling
-Propel
-Sling
-Chuck
-Heave
-Launch
-Fire
-Catapult
-Pitch
-Thrust
-Volley
-Cast
-Discharge
-Lob
-Pelt
-Peg
-Touch
-Feel
-Caress
-Brush
-Fondle
-Glove
-Palm
-Smooth
-Stroke
-Tickle
-Dab
-Finger
-Graze
-Pat
-Pet (see RUB)
-Trap
-Imprison
-Snare
-Corner
-Entangle
-Hold
-Pin
-Catch
-Restrain
-Bind
-Hook
-Snag
-Snatch
-Clutch 
-Pinch
-Chain
-Cage
-Surround
-Handcuff
-Shackle
-Capture
-Turn
-Twist
-Tilt
-Round
-Lean
-Crank
-Swerve
-Switch
-Swing
-Swirl
-Twirl
-Swivel
-Pivot
-Whirl
-Curl
-Circle
-Fork
-Sway
-Spin
-Revolve
-Bend
-Loop
-Rotate
-Use
-Wield
-Handle
-Work
-Employ
-Adopt
-Practice
-Manipulate
-Operate
-Utilize
-Visit
-Haunt
-Frequent
-Attend
-Call on
-Tour
-Court
-Drop in
-Wait
-Delay
-Pause
-Linger
-Remain
-Stay
-Hold
-Stand
-Adhere
-Haunt
-Bide
-Loiter
-Hover
-Roost
-Settle
-Lag
-Pause
-Perch
-Tarry
-Dwell
-Dally
-Hang out
-Idle
-Hesitate
-Procrastinate
-Walk
-Coast
-Pad
-Amble
-Saunter
-Stroll
-Strut
-Swagger
-Trudge
-Stride
-Tiptoe
-Creep
-Sneak
-Stamp
-Clump
-Tramp
-Parade
-Plod
-Slog
-Limp
-Totter
-Glide
-Pace 
-March
-Shuffle
-Lurch
-Trample
-Prowl
-Mosey
-Toddle
-Slink
-Scamper
-Clomp
-Lumber
-Scoot
-Roam
-Waddle
-Want
-Desire
-Thirst
-Crave
-Long for
-Lust
-Covet
-Hunger
-Pine
-Yearn
-Wish
-Ache
-Dream (see NEED)
-Wash
-Clean
-Bathe
-Launder
-Rinse
-Sluice
-Scrub
-Lather
-Shower
-Cleanse
-Buff
-Freshen up
-Scour
-Shampoo
-Soak
-Soap
-Swab
-Watch
-Spy
-View 
-Witness
-Monitor
-Keep tabs
-Spot
-Detect
-Attend
-Follow
-Regard
-Scope
-Scrutinize
-Survey
-Observe
-Contemplate
-Examine
-Inspect
-Note
-Observe
-Stare (see LOOK)
-Whisper
-Mutter
-Murmur
-Mouth
-Mumble
-Wheeze
-Confide
-Wonder
-Muse
-Ponder
-Consider
-Dwell
-Debate
-Mull
-Study
-Ruminate
-Weigh
-Question
-Doubt
-Meditate
-Speculate
-Puzzle
-Think
+- Abandon
+- Abate
+- Accept
+- Access
+- Accomplish
+- Accrue
+- Ache
+- Acknowledge
+- Acquire
+- Acquire
+- Act 
+- Activate
+- Adapt
+- Add
+- Address
+- Adhere
+- Adhere
+- Adjust
+- Adopt
+- Advance
+- Advance
+- Advise
+- Advocate
+- Affix
+- Agitate
+- Agree
+- Aid
+- Alter
+- Amass
+- Amble
+- Amble
+- Ambush
+- Appear
+- Appear
+- Apply
+- Apprehend
+- Approach
+- Appropriate
+- Arise
+- Arrange
+- Arrest
+- Arrive
+- Arrive
+- Articulate
+- Ascend
+- Ask
+- Assail
+- Assault
+- Assault 
+- Assemble
+- Assemble
+- Assist
+- Attach
+- Attack
+- Attack
+- Attain
+- Attempt
+- Attend
+- Attend
+- Attend
+- Attend
+- Attend
+- Avoid
+- Award
+- Axe
+- Bag
+- Bail
+- Banter
+- Bare
+- Barge in
+- Barrage
+- Barrel
+- Bash
+- Bathe
+- Batten
+- Batten
+- Batter
+- Battle
+- Battle
+- Bawl
+- Bawl
+- Beat
+- Beat
+- Befriend
+- Beget
+- Begin
+- Behold (See WATCH)
+- Belay
+- Bellow
+- Bend
+- Bequeath
+- Beset
+- Bestow 
+- Bide
+- Bind
+- Birth
+- Blab
+- Blanket
+- Bleed
+- Blend
+- Blend
+- Bloom
+- Blubber
+- Blunt
+- Blur
+- Board
+- Bolster
+- Bolt
+- Bolt
+- Bombard
+- Boost
+- Boost
+- Boot
+- Bounce
+- Bound
+- Brawl
+- Bray
+- Break
+- Break
+- Brew
+- Bridge
+- Bridge
+- Bring
+- Broadcast
+- Browse
+- Browse
+- Brush
+- Brush
+- Buckle 
+- Budge
+- Buff
+- Buff
+- Build
+- Bulldoze
+- Bump
+- Bump
+- Burrow
+- Burst
+- Burst into
+- Bury
+- Bury
+- Bust
+- Bustle
+- Butt
+- Cache
+- Cage
+- Cage
+- Call
+- Call
+- Call on
+- Call to mind
+- Camouflage
+- Canter
+- Caper
+- Capture
+- Caress
+- Caress
+- Caress
+- Carry
+- Carry
+- Carve
+- Carve
+- Case
+- Cast
+- Cast
+- Catapult
+- Catch
+- Catch
+- Catch
+- Catch
+- Catch
+- Cavort
+- Cease
+- Cement
+- Chafe
+- Chain
+- Chance
+- Change
+- Channel
+- Chant
+- Charge
+- Chase
+- Chat
+- Cheer
+- Chip
+- Choose
+- Chop
+- Chop
+- Chuck
+- Churn
+- Circle
+- Claim
+- Claim (see WANT)
+- Clap
+- Clash
+- Clasp
+- Clasp
+- Clatter
+- Clean
+- Cleanse
+- Clear out
+- Cleave
+- Cleave
+- Clench
+- Climb
+- Cloak
+- Clobber
+- Clobber
+- Clomp
+- Close
+- Clothe
+- Cloud
+- Clown
+- Clump
+- Clutch
+- Clutch
+- Clutch 
+- Coast
+- Coast
+- Cobble
+- Collapse
+- Collect
+- Collect
+- Combat
+- Combine
+- Combine
+- Come
+- Comfort
+- Commence
+- Compile
+- Comply
+- Conceal
+- Conceal
+- Conceive
+- Conclude
+- Concur
+- Confer
+- Confide
+- Consent
+- Consent
+- Consider
+- Construct
+- Contemplate
+- Converge
+- Converse
+- Convey
+- Convulse
+- Core
+- Corner
+- Corral
+- Correct
+- Couple
+- Court
+- Cover
+- Cover
+- Covet
+- Crack 
+- Cradle
+- Cram
+- Crane 
+- Crank
+- Crash
+- Crave
+- Create
+- Create
+- Creep
+- Crest
+- Crop
+- Cross
+- Cross-examine
+- Crouch
+- Crowd
+- Cruise
+- Cruise
+- Crumple
+- Crush
+- Crust
+- Cry
+- Cry
+- Cull
+- Cull
+- Curb
+- Curb
+- Cure
+- Curl
+- Curse
+- Curtail
+- Curtain (see HIDE)
+- Cut
+- Cut
+- Cut back
+- Cut over
+- Dab
+- Dabble
+- Dally
+- Dally
+- Damage
+- Dampen
+- Darn
+- Dart
+- Dash
+- Dash
+- Dawn
+- Debate
+- Deck
+- Decrease
+- Defect
+- Delay
+- Deliver
+- Deliver
+- Delve
+- Delve
+- Demand
+- Demand
+- Depart
+- Deplete
+- Deposit
+- Design
+- Desire
+- Desist
+- Detect
+- Detect
+- Detect
+- Determine
+- Develop
+- Dictate
+- Dig
+- Dig
+- Diminish
+- Disappear
+- Discern
+- Discharge
+- Discontinue
+- Discover
+- Discuss
+- Disguise
+- Disguise
+- Dispense
+- Displace
+- Display
+- Dissect
+- Distort
+- Distribute
+- Ditch
+- Dive
+- Divide
+- Divide
+- Doctor
+- Dodge
+- Donate
+- Doubt
+- Drag
+- Draw
+- Draw
+- Drawl
+- Dream (see NEED)
+- Dredge up
+- Drill
+- Drill
+- Drive
+- Drone
+- Drop
+- Drop 
+- Drop in
+- Drop in
+- Dropkick
+- Duck
+- Duel
+- Dwell
+- Dwell
+- Dwindle
+- Earn
+- Eavesdrop
+- Elbow
+- Elevate
+- Elicit
+- Elude
+- Embark
+- Embark
+- Emerge
+- Employ
+- Enclose
+- Encourage
+- Encourage
+- Encroach
+- End
+- Endeavor
+- Entangle
+- Enter
+- Enter
+- Enter
+- Entertain
+- Envelop
+- Erect
+- Erupt
+- Escape
+- Evacuate
+- Evade
+- Evaporate
+- Evolve
+- Exact
+- Examine
+- Examine
+- Excavate
+- Exclaim
+- Exhume
+- Exit
+- Expand
+- Expedite
+- Explode
+- Explore
+- Expose
+- Expose
+- Extract
+- Eye
+- Fade
+- Fall
+- Fashion
+- Fashion
+- Fasten
+- Fasten
+- Feel
+- Feel
+- Ferret
+- Fetch
+- Fetch
+- Fetch
+- Feud
+- Fiddle
+- Fight
+- Film
+- Find
+- Finger
+- Finish
+- Fire
+- Firm
+- Fit
+- Fix
+- Flash
+- Flash back to
+- Flee
+- Flee
+- Fling
+- Flip
+- Flirt
+- Flog
+- Flop
+- Flower
+- Fluctuate
+- Flutter
+- Flux
+- Fly
+- Focus
+- Fold
+- Follow
+- Follow
+- Fondle
+- Forage
+- Force
+- Force
+- Ford
+- Forge
+- Forge
+- Fork
+- Form
+- Form
+- Forsake
+- Fortify
+- Fracture
+- Fragment
+- Frame
+- Free
+- Freeze
+- Frequent
+- Freshen up
+- Frisk
+- Frolic
+- Further
+- Fuse
+- Gain
+- Gallop
+- Gallop
+- Gamble
+- Gambol
+- Gape
+- Garner
+- Gather
+- Gather
+- Gather
+- Gather
+- Gather
+- Gawk
+- Get
+- Gift
+- Give
+- Glance
+- Glide
+- Glide
+- Glide
+- Glide
+- Glimpse
+- Glove
+- Glue
+- Gouge
+- Grab
+- Graft
+- Grant
+- Grapple
+- Grapple
+- Grasp
+- Grasp
+- Graze
+- Graze
+- Grill
+- Grind
+- Grip
+- Grip
+- Group
+- Guide
+- Guide
+- Hack
+- Hack
+- Hail
+- Halt
+- Halve
+- Hammer
+- Hand
+- Handcuff
+- Handle
+- Handle
+- Hang out
+- Harvest
+- Harvest
+- Hasten
+- Haul
+- Haunt
+- Haunt
+- Heal
+- Hear
+- Heave
+- Heave
+- Heave
+- Heed
+- Heft
+- Help
+- Hesitate
+- Hew
+- Hide
+- Hide
+- Hike
+- Hinge
+- Hit
+- Hitch
+- Hoard
+- Hoist
+- Hold
+- Hold
+- Hold
+- Hold
+- Hole up
+- Holler
+- Holler
+- Hollow
+- Hook
+- Hook
+- Hook
+- Hoot
+- Hop
+- Hound
+- Hover
+- Howl
+- Huddle
+- Hunger
+- Hunker
+- Hunt
+- Hunt 
+- Hurdle
+- Hurl
+- Hurry
+- Hustle
+- Hustle
+- Identify
+- Idle
+- Impel
+- Implant
+- Import
+- Imprison
+- Improve
+- Infiltrate
+- Inherit
+- Initiate
+- Initiate
+- Inquire
+- Inquire
+- Inspect
+- Intercede
+- Interrogate
+- Intrude
+- Intuit
+- Invade
+- Invent
+- Investigate
+- Jabber
+- Jack up
+- Jam
+- Jam
+- Jar
+- Jar
+- Jerk
+- Jet
+- Jibber
+- Jiggle
+- Jockey
+- Jog
+- Join
+- Joke
+- Jolt
+- Jolt
+- Jostle
+- Jostle
+- Joust
+- Judder
+- Jump
+- Jump
+- Keep tabs
+- Kick
+- Kid
+- Knead
+- Knit
+- Knock
+- Knock
+- Knock
+- Know
+- Lag
+- Lather
+- Lather
+- Launch
+- Launch
+- Launder
+- Lay
+- Layer
+- Laze
+- Lean
+- Leap 
+- Leapfrog
+- Leave
+- Leave
+- Leer
+- Lessen
+- Lift
+- Lighten
+- Limit
+- Limp
+- Linger
+- Link
+- Listen
+- Lob
+- Locate
+- Lock
+- Lock down
+- Lodge
+- Loiter
+- Long for
+- Look
+- Loop
+- Lope
+- Lounge
+- Lug
+- Lug
+- Lumber
+- Lurch
+- Lurch
+- Lurch
+- Lust
+- Maintain
+- Make
+- Maneuver
+- Maneuver
+- Maneuver
+- Manifest
+- Manipulate
+- March
+- Maroon
+- Marry
+- Mask
+- Mask
+- Massage
+- Materialize
+- Meditate
+- Meet
+- Meld
+- Memorialize
+- Mend
+- Merge
+- Mewl
+- Mind
+- Mine
+- Minimize
+- Mitigate
+- Modify
+- Mold
+- Mold
+- Molest
+- Monitor
+- Monitor
+- Mosey
+- Mount
+- Mount
+- Mount
+- Mouth
+- Mouth
+- Move 
+- Mull
+- Mumble
+- Murmur
+- Murmur
+- Muscle
+- Muse
+- Mutate
+- Mutter
+- Mutter
+- Need
+- Needle
+- Nest
+- Nest
+- Net
+- Nick
+- Nick
+- Nod
+- Note
+- Notice
+- Notice
+- Nudge
+- Nudge
+- Nudge
+- Nurture
+- Nuzzle
+- Obscure
+- Obscure
+- Observe
+- Observe
+- Obtain
+- Obtain
+- Offer
+- Ogle
+- Open
+- Operate
+- Opt
+- Overhear
+- Overwhelm
+- Pace 
+- Pack
+- Pack
+- Pad
+- Pair
+- Palm
+- Palpitate
+- Parade
+- Parcel out
+- Park
+- Part
+- Pass 
+- Pass 
+- Pat
+- Patch
+- Pause
+- Pause
+- Pause
+- Peek
+- Peel
+- Peep
+- Peg
+- Pelt
+- Pelt
+- Pelt
+- Penetrate
+- Perceive
+- Perch
+- Perch
+- Pet (see RUB)
+- Pick
+- Pick
+- Pick up
+- Pierce
+- Pierce
+- Pin
+- Pin
+- Pinch
+- Pine
+- Pioneer
+- Pitch
+- Pitch 
+- Pivot
+- Place
+- Place
+- Plant
+- Play
+- Plead
+- Plod
+- Plop
+- Pluck
+- Pluck
+- Pluck
+- Plug
+- Plummet
+- Plunge
+- Plunge
+- Poke
+- Poke
+- Polish
+- Ponder
+- Pop out
+- Pose
+- Position
+- Position
+- Pounce
+- Pound
+- Pound
+- Practice
+- Prefer
+- Present
+- Press
+- Press
+- Probe
+- Proclaim
+- Procrastinate
+- Procure
+- Prod
+- Produce
+- Prop
+- Propel
+- Propel
+- Proposition
+- Protect
+- Prowl
+- Prune
+- Publish
+- Pull
+- Pulverize
+- Punch
+- Punt
+- Pursue
+- Pursue
+- Push
+- Put
+- Puzzle
+- Quake
+- Quarrel
+- Quaver
+- Query
+- Quest
+- Question
+- Question
+- Quicken
+- Quit
+- Quit
+- Quiver
+- Quiz
+- Race 
+- Radiate
+- Raid
+- Raise
+- Raise/Rise
+- Ram
+- Ransack
+- Rant
+- Rap
+- Rattle
+- Rave
+- Realize
+- Reap
+- Reap
+- Rebuild
+- Recall
+- Receive
+- Recline
+- Recognize
+- Recollect
+- Reduce
+- Refit
+- Reform
+- Refrain
+- Regard
+- Rein
+- Reinforce
+- Rejoice
+- Relax
+- Relay
+- Release
+- Relieve
+- Relocate
+- Remain
+- Remember
+- Reminisce about
+- Rend
+- Rend
+- Rend
+- Renovate
+- Repair
+- Request
+- Request
+- Require
+- Rest
+- Rest
+- Restore
+- Restrain
+- Retire
+- Retire (see ESCAPE)
+- Retrieve
+- Return
+- Reveal
+- Reveal
+- Revive
+- Revolve
+- Ride
+- Rig
+- Rinse
+- Rip
+- Ripple
+- Rise 
+- Roam
+- Roar
+- Roar
+- Romp
+- Roost
+- Roost
+- Rotate
+- Round
+- Rout
+- Route
+- Rub
+- Ruminate
+- Rummage
+- Run
+- Run
+- Rupture
+- Rupture
+- Rush
+- Rush
+- Rush
+- Sacrifice
+- Sally
+- Saunter
+- Save
+- Save
+- Saw
+- Say
+- Scale
+- Scamper
+- Scamper
+- Scamper
+- Scan
+- Scoot
+- Scoot
+- Scoot
+- Scope
+- Score
+- Score
+- Scour
+- Scour
+- Scour
+- Scout
+- Scram
+- Scramble
+- Scramble
+- Scrap
+- Scrape
+- Scrape
+- Scream
+- Scream
+- Screech
+- Screen
+- Screen (See COVER)
+- Scrub
+- Scrub
+- Scrub
+- Scrutinize
+- Scuffle
+- Sculpt
+- Scurry
+- Scurry
+- Scuttle
+- Scuttle
+- Seal
+- Seal
+- Seam
+- Search
+- Seat
+- Secure
+- Secure
+- See
+- Seek
+- Seek
+- Seek
+- Seize 
+- Select
+- Select
+- Send
+- Sense
+- Separate
+- Serve
+- Service
+- Set
+- Set 
+- Set forth
+- Set out
+- Settle
+- Settle
+- Settle
+- Sever
+- Sever
+- Shackle
+- Shade
+- Shadow
+- Shake
+- Shampoo
+- Shape
+- Shape
+- Shatter
+- Shave
+- Shear
+- Sheathe
+- Shelter
+- Shelter
+- Shield
+- Shift
+- Shift
+- Shimmy
+- Ship
+- Shiver
+- Shot
+- Shoulder
+- Shout
+- Shout
+- Shove
+- Show
+- Show up
+- Shower
+- Shriek
+- Shrink
+- Shrivel
+- Shroud
+- Shudder
+- Shuffle
+- Shut
+- Shutter
+- Sidestep
+- Sift
+- Signal
+- Sink
+- Sit
+- Skip
+- Skirmish
+- Slacken
+- Slam
+- Slam
+- Slam 
+- Slam 
+- Slant
+- Slap
+- Slash
+- Slash
+- Slice
+- Slide
+- Slide
+- Sling
+- Slink
+- Slip
+- Slip out
+- Slit
+- Slog
+- Slosh
+- Slouch
+- Slug
+- Sluice
+- Slump
+- Smack
+- Smash
+- Smear
+- Smite
+- Smoke
+- Smooth
+- Smooth
+- Smooth
+- Smother
+- Smudge
+- Smuggle
+- Snag
+- Snag 
+- Snap
+- Snap up
+- Snare
+- Snarl
+- Snatch
+- Snatch
+- Sneak
+- Sneak away (see LEAVE)
+- Snip
+- Soak
+- Soap
+- Solicit
+- Solve
+- Spar
+- Spasm
+- Spawn
+- Speak
+- Speculate
+- Speed
+- Speed
+- Speed
+- Spill
+- Spin
+- Splice
+- Splinter
+- Split
+- Split
+- Split
+- Split (see SPLIT)
+- Spot
+- Spout
+- Sprawl
+- Spread
+- Spread
+- Spring
+- Spring
+- Spring
+- Sprint
+- Sputter
+- Spy
+- Squall
+- Squat
+- Squeal
+- Squeeze
+- Squint
+- Squirm
+- Squirrel away
+- Squish
+- Stack
+- Stalk 
+- Stall
+- Stammer
+- Stamp
+- Stampede
+- Stand
+- Staple
+- Stare
+- Stare (see LOOK)
+- Start
+- Stash
+- Stay
+- Steal
+- Stitch
+- Stockpile
+- Stop
+- Store
+- Storm
+- Stow
+- Straddle
+- Strain
+- Streak
+- Stride
+- Strike
+- Strike
+- Strike
+- Strive
+- Strive
+- Stroke
+- Stroke
+- Stroll
+- Struggle
+- Strut
+- Study
+- Stuff
+- Stumble
+- Stutter
+- Summon
+- Sunder
+- Support
+- Support
+- Surf
+- Surface
+- Surface
+- Surge
+- Surround
+- Survey
+- Suspend
+- Swab
+- Swagger
+- Swat
+- Sway
+- Swear
+- Sweep
+- Swerve
+- Swing
+- Swing
+- Swirl
+- Switch
+- Switch
+- Swivel
+- Tackle
+- Take
+- Take 
+- Take off
+- Tap
+- Tap
+- Taper
+- Tarry
+- Tear
+- Tear
+- Tease
+- Terminate
+- Tether
+- Thin
+- Thin out
+- Think
+- Think back to
+- Thirst
+- Thrash
+- Throb
+- Throw
+- Thrust
+- Thrust
+- Thump
+- Tickle
+- Tilt
+- Tinker
+- Tiptoe
+- Toddle
+- Top
+- Topple
+- Toss
+- Toss
+- Tote
+- Tote
+- Totter
+- Totter
+- Touch
+- Touch
+- Tour
+- Tow
+- Toy
+- Track
+- Trail
+- Trail
+- Tramp
+- Trample
+- Transfer
+- Transform
+- Transmit
+- Transport
+- Transport
+- Trap
+- Trap
+- Traverse
+- Trawl
+- Tremble
+- Tremor
+- Trespass
+- Trill
+- Trim
+- Trim
+- Trip
+- Trot
+- Trounce
+- Trudge
+- Try
+- Tug
+- Tumble
+- Tune in
+- Tunnel
+- Turn
+- Tussle
+- Twinge
+- Twirl
+- Twist
+- Twist
+- Twitch
+- Unbolt
+- Uncork
+- Uncover
+- Uncover
+- Understand
+- Undertake
+- Undo
+- Unearth
+- Unearth
+- Unfasten
+- Unfold
+- Unfurl
+- Unhinge
+- Unite
+- Unlock
+- Unroll
+- Unzip
+- Uphold
+- Use
+- Utilize
+- Utter
+- Utter
+- Vacate
+- Vary
+- Vault
+- Veil
+- Venture
+- Vibrate
+- View 
+- Visit
+- Volley
+- Volley
+- Vote
+- Waddle
+- Wail
+- Wait
+- Walk
+- Wallop
+- Wander
+- Wane
+- Want
+- War
+- Warp
+- Wash
+- Watch
+- Watch
+- Waylay
+- Weaken
+- Weave
+- Wedge
+- Weigh
+- Weld
+- Whack
+- Whack
+- Wheeze
+- Whimper
+- Whirl
+- Whisper
+- Whisper
+- Whoop
+- Widen
+- Wield
+- Win
+- Winch
+- Winnow
+- Wipe (see TOUCH)
+- Wire
+- Wish
+- Withdraw
+- Witness
+- Wonder
+- Work
+- Work at
+- Wrap
+- Wrench
+- Wrestle
+- Yammer
+- Yammer
+- Yank
+- Yarn
+- Yearn
+- Yell
+- Yelp
+- Zip
